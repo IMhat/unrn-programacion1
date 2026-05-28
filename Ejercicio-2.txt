@@ -1,0 +1,31 @@
+Ejercicio 2 - Leer codigo y explicarlo
+Este ejercicio no es para programar. Lean el codigo y escriban una explicación de que hace.
+
+linea = " mara ; programacion ; 8 "
+
+partes = linea.split(";")
+nombre = partes[0].strip().capitalize()
+materia = partes[1].strip().capitalize()
+nota_texto = partes[2].strip()
+
+if nota_texto.isnumeric():
+    nota = int(nota_texto)
+    print(f"{nombre} cursa {materia} y obtuvo {nota}")
+else:
+    print("La nota no es valida")
+
+
+-----------
+
+El codigo toma un string llamado "linea" con palabras separadas por ";", utilizando el metodo split(";") divide en "partes" el string y devuelve 
+como resultado una lista con las partes (separadas), luego accede por indice a cada item de la lista y lo asigna a variables.
+Utiliza los metodos Strip() para quitar espacios en blanco y Capitalize() para poner en mayuscula la primera letra. Priorizando el 
+strip antes del capitalize, para que el primer caracter sea una letra y no un espacio en blanco.
+
+luego se utilzia un condicional if y el metodo booleano isnumeric() que devuelve true si cumple y false si no cumple, de esta forma
+valida que la nota sea numerica y se pueda asignar a una variable de tipo int sin que falle la logica.
+una vez que se valido y asigno la variable nota, procede a imprimir en pantalla un string con las variables consumidas.
+
+si en la nota en el string "linea" fuera "ocho" el condicional if con el booleano isnumeric(false) saltaria al "else" (else funciona cuando no se cumple la condicion)
+y en el modulo else hay un print "La nota no es valida". Por lo tanto se visualizaria ese mensaje por consola.
+
