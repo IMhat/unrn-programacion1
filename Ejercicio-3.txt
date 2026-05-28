@@ -1,0 +1,20 @@
+Ejercicio 3 - Acomodar nombres
+Partiendo de esta lista:
+
+nombres = [" mara ", "TOMAS", "  luCIA", "mARcos  ", " SOFIA "]
+Armar una nueva lista llamada nombres_normalizados donde cada nombre quede sin espacios sobrantes y con un formato prolijo.
+
+Al final, mostrar la lista. Deberia quedar parecido a esto:
+
+["Mara", "Tomas", "Lucia", "Marcos", "Sofia"]
+
+
+nombres_normalizados = []
+for nom in nombres:
+    nom.strip().capitalize()
+    nombres_normalizados.append(nom)
+
+for mostrar in nombres_normalizados:
+    print(f'Nombre normalizado: {mostrar}')
+
+print(nombres_normalizados)
