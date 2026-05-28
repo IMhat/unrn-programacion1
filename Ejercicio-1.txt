@@ -1,0 +1,21 @@
+Ejercicio 1 - Algunas preguntas
+Responder en un archivo de texto plano (.TXT), con sus palabras.
+
+¿Porque es importante validar los datos que ingresa un usuario?
+
+Validar los datos que ingresa el cliente en nuestro software es sumamente importante, debido a que la logica de negocio que implementamos
+funciona con los tipos de datos estrictos que hayamos especificado, y si no son exactamente esos tipos de datos nuestra logica se rompe.
+
+¿Que hace strip y en que se diferencia de split?
+
+el metodo de strings strip lo que hace es borrar los caracteres invisibles mayormente se utiliza para quitar espacios en blanco. 
+el metodo de strings split, lo que hace es separar las "partes" del string segun el caracter que especifiquemos y nos devuelve una lista 
+
+¿Para que puede servir count cuando una linea tiene datos separados por comas o por punto y coma?
+
+El metodo count() puede contar cuantas veces aparece un caracter en un string o incluso en una lista. Devuelve la cantidad de veces que repite.
+que la linea este separado por comas o punto y coma podria ser mas util para el split.
+
+¿Que problema pueden traer los espacios de mas al principio o al final de un dato?
+
+Los espacios de mas al principio o final, o incluso en el centro son un caracter mas del string. Por lo tanto "Hola " es distinto de "Hola".
