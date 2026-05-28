@@ -1,0 +1,45 @@
+Ejercicio 5 - Codigo de materia
+Pedir al usuario un codigo de materia con este formato:
+
+PROG-101
+El programa tiene que validar que:
+
+tenga un solo guion -;
+la parte de la izquierda tenga solo letras;
+la parte de la derecha tenga solo numeros.
+Si el codigo es valido, mostrarlo normalizado en mayusculas (metodo upper).
+
+Ejemplo:
+
+Codigo valido: PROG-101
+Si no es valido, mostrar un mensaje de error claro.
+
+while true:
+    code = input("ingrese codigo de materia")
+    codeNormalized = code.strip().upper()
+
+    if codeNormalized.count("-") == 1:
+
+        partesCode = codeNormalized.split("-")
+
+        izq = partesCode[0]
+        der = partesCode[1]
+
+
+        if izq.isalpha():
+            print("Parte izquierda valida")
+
+            if der.isnumeric():
+                print("Parte derecha valida")
+                print(f'Codigo : {codeNormalized}')
+
+                break
+
+            else:
+                print("Parte derecha invalida")
+        else:
+            print("Parte izquierda invalida")
+
+    else:
+        print(f'el codigo no incluye "-"')
+        
