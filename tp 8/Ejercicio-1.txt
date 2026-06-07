@@ -1,0 +1,28 @@
+Ejercicio 1 — Estructuras de datos
+Explicá con tus palabras la diferencia entre:
+
+Lista
+Tupla
+Conjunto
+Diccionario
+Para cada estructura, indicá un ejemplo de situación donde podría resultar útil.
+
+Una lista es una estructura de datos que puede almacenar multiples tipos de "estructuras de datos".
+De forma ordenada y los datos pueden tener mutacion en el tiempo.
+
+Ejemplo nombres= ["Mateo", "Martin"]
+
+Una tupla es igual a una lista, a diferencia de que no admite mutacion en el tiempo.
+
+ejemplo nombres = ("Mateo", "Martin")
+
+Un conjunto es una estructura de datos similar a una lista, pero no admite REPETIDOS.
+
+ejemplo estructuraConjunto = {"Mateo", "Martin"}
+
+Un diccionario permite almacenar datos con una estructura CLAVE-VALOR, donde la clave no puede repetirse
+y se puede acceder al valor segun clave (como un indice en lista)
+
+Ejemplo dicc= {
+    "SoyLaClave": "SoyElValor"
+}

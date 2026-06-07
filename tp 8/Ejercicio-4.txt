@@ -1,0 +1,37 @@
+Ejercicio 4 — Lectura de archivo
+Se tiene un archivo llamado temperaturas.txt con el siguiente contenido:
+
+Bariloche;12
+Viedma;20
+Roca;18
+Bariloche;15
+Escribí un programa que:
+
+Lea el archivo línea por línea.
+Separe cada línea usando split(";")
+Genere un diccionario donde:
+la clave sea la ciudad;
+el valor sea una lista de temperaturas registradas.
+Muestre el diccionario final.
+
+archivo = open("temperaturas.txt", "r")
+dicc = {}
+
+for linea in archivo:
+
+    lin = linea.strip().split(";")
+
+    ciudad = lin[0]
+    temperatura = lin[1]
+
+    if ciudad not in dicc:
+        dicc[ciudad] = []
+
+    dicc[ciudad].append(temperatura)
+
+archivo.close()
+
+print(f'Diccionarion de temperaturas {dicc}')
+
+
+

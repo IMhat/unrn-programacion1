@@ -1,0 +1,44 @@
+Ejercicio 2 — Registro de sensores
+Dada la siguiente lista de tuplas:
+
+mediciones = [
+    ("temp", 18.5, "Aula 1"),
+    ("humedad", 40, "Aula 1"),
+    ("temp", 21.0, "Laboratorio"),
+    ("presion", 1012, "Laboratorio"),
+    ("humedad", 55, "Aula 2")
+]
+
+Cada tupla tiene el formato:
+
+(tipo_medicion, valor, ubicacion)
+Escribí un programa que:
+
+Cree un diccionario donde la clave sea la ubicación.
+Cada ubicación debe guardar una lista con sus mediciones.
+Cree un conjunto con todos los tipos de medición sin repetir.
+Muestre el diccionario final.
+Muestre el conjunto de tipos encontrados.
+
+mi_dic = {}
+tipos_medicion = set()
+
+for med in mediciones:
+    tipo_medicion = med[0]
+    valor_medicion = med[1]
+    ubicacion_medicion = med[2]
+
+    if ubicacion_medicion not in mi_dic:
+        mi_dic[ubicacion_medicion] = []
+
+    mi_dic[ubicacion_medicion].append((tipo_medicion, valor_medicion))
+    tipos_medicion.add(tipo_medicion)
+
+print(f'dicc final {mi_dic}')
+print(f'tipos de mediciones encontrados {tipos_medicion}')
+
+
+    
+
+
+

@@ -1,0 +1,37 @@
+Ejercicio 3 — Base de datos de alumnos
+Escribí un programa que:
+
+Pida al usuario el nombre de 4 alumnos.
+Valide que el nombre no esté vacío.
+Guarde los nombres válidos en una lista.
+Escriba los nombres en un archivo llamado alumnos.txt, un nombre por línea.
+Cierre el archivo.
+
+lista_nombres = []
+cont = 0
+while cont < 4:
+    nombre = input("Ingrese un nombre")
+    nombreNormalize = nombre.strip().capitalize()
+
+    if len(nombreNormalize) > 0:
+        lista_nombres.append(nombreNormalize)
+        cont += 1
+    else:
+        print(f'el nombre ingresado esta vacion = {nombre}')
+
+#ahora escribimos esos nombres en un txt
+
+archivo = open("alumnos.txt"; "w")
+
+for nom in lista_nombres:
+
+    archivo.write(nom + "\n")
+
+archivo.close()
+
+
+
+    
+
+
+
