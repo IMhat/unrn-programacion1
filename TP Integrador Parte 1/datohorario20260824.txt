@@ -1,0 +1,1894 @@
+FECHA     HORA  TEMP   HUM   PNM    DD    FF     NOMBRE                                             
+         [HOA]  [ºC]   [%]  [hPa]  [gr] [km/hr]                                                     
+24082026     0   8.0   70  1027.7   80   13     AEROPARQUE AERO                                     
+24082026     1   8.6   66  1027.9   60   11     AEROPARQUE AERO                                     
+24082026     2   8.0   69  1027.4   80   13     AEROPARQUE AERO                                     
+24082026     3   8.2   68  1027.2   60   13     AEROPARQUE AERO                                     
+24082026     4   8.1   69  1026.8   90    9     AEROPARQUE AERO                                     
+24082026     5   8.7   64  1026.7   90    7     AEROPARQUE AERO                                     
+24082026     6   8.3   69  1026.7   70    7     AEROPARQUE AERO                                     
+24082026     7   7.6   75  1027.0   80    9     AEROPARQUE AERO                                     
+24082026     8   8.0   73  1027.6   80    9     AEROPARQUE AERO                                     
+24082026     9   9.3   66  1028.1   80    9     AEROPARQUE AERO                                     
+24082026    10   9.7   67  1028.2   30    9     AEROPARQUE AERO                                     
+24082026    11  10.7   65  1028.2   40   13     AEROPARQUE AERO                                     
+24082026    12  10.6   64  1027.7   50   11     AEROPARQUE AERO                                     
+24082026    13  10.4   66  1027.3   50    9     AEROPARQUE AERO                                     
+24082026    14  10.6   62  1026.0   40   11     AEROPARQUE AERO                                     
+24082026    15  10.5   62  1025.3   80   11     AEROPARQUE AERO                                     
+24082026    16  10.6   64  1024.4  100   15     AEROPARQUE AERO                                     
+24082026    17  10.5   64  1023.9  100   17     AEROPARQUE AERO                                     
+24082026    18  10.1   68  1024.1  100   15     AEROPARQUE AERO                                     
+24082026    19   9.7   68  1023.5  100   15     AEROPARQUE AERO                                     
+24082026    20   9.8   70  1023.8   90   17     AEROPARQUE AERO                                     
+24082026    21   9.9   72  1023.8   80   19     AEROPARQUE AERO                                     
+24082026    22  10.0   73  1023.9   70   20     AEROPARQUE AERO                                     
+24082026    23   9.7   74  1024.1   70   22     AEROPARQUE AERO                                     
+24082026     0   3.5   88  1028.0   90    2     AZUL AERO                                           
+24082026     1   3.0   93  1027.6  110    6     AZUL AERO                                           
+24082026     2   2.2   91  1027.7   70    6     AZUL AERO                                           
+24082026     3   3.0   93  1027.9   70    6     AZUL AERO                                           
+24082026     4   2.6   97  1027.2   70    7     AZUL AERO                                           
+24082026     5   1.2   97  1027.1   90    4     AZUL AERO                                           
+24082026     6   1.3   98  1027.3   90    4     AZUL AERO                                           
+24082026     7   2.4   93  1027.7   50    6     AZUL AERO                                           
+24082026     8   3.6   93  1027.9   70    6     AZUL AERO                                           
+24082026     9   4.0   90  1028.0   50    9     AZUL AERO                                           
+24082026    10   6.2   79  1027.9   50   13     AZUL AERO                                           
+24082026    11   7.6   62  1027.8   50   13     AZUL AERO                                           
+24082026    12   8.2   60  1027.9  360   15     AZUL AERO                                           
+24082026    13   8.4   58  1027.1  360   13     AZUL AERO                                           
+24082026    14   9.0   59  1026.5   20   13     AZUL AERO                                           
+24082026    15   9.4   59  1024.8   20   13     AZUL AERO                                           
+24082026    16   9.6   57  1024.9   20   13     AZUL AERO                                           
+24082026    17   9.0   61  1023.7   50   13     AZUL AERO                                           
+24082026    18   8.6   58  1023.7   50   15     AZUL AERO                                           
+24082026    19   8.0   68  1023.6   50    9     AZUL AERO                                           
+24082026    20   7.6   71  1023.3   50   11     AZUL AERO                                           
+24082026    21   7.3   73  1024.1   50    7     AZUL AERO                                           
+24082026    22   7.0   74  1023.2   50   11     AZUL AERO                                           
+24082026    23   7.0   74  1023.5   20    7     AZUL AERO                                           
+24082026     0   1.9   95  1028.2   50   11     BAHIA BLANCA AERO                                   
+24082026     1   1.8   91  1027.8   60   13     BAHIA BLANCA AERO                                   
+24082026     2    .6   90  1027.8   50   11     BAHIA BLANCA AERO                                   
+24082026     3    .2   94  1027.4   60   13     BAHIA BLANCA AERO                                   
+24082026     4   -.6   98  1026.6   50   13     BAHIA BLANCA AERO                                   
+24082026     5  -1.1   94  1026.5   50    7     BAHIA BLANCA AERO                                   
+24082026     6  -1.2   92  1026.6   40   11     BAHIA BLANCA AERO                                   
+24082026     7  -2.0   96  1026.5   40   11     BAHIA BLANCA AERO                                   
+24082026     8  -1.8   96  1026.3   40    7     BAHIA BLANCA AERO                                   
+24082026     9   -.6   92  1026.3   40    7     BAHIA BLANCA AERO                                   
+24082026    10   5.6   82  1026.2   30    6     BAHIA BLANCA AERO                                   
+24082026    11  10.2   63  1025.3   70    7     BAHIA BLANCA AERO                                   
+24082026    12  11.6   58  1025.3   90   11     BAHIA BLANCA AERO                                   
+24082026    13  12.4   54  1024.4   50    9     BAHIA BLANCA AERO                                   
+24082026    14  13.0   54  1023.1  360    9     BAHIA BLANCA AERO                                   
+24082026    15  12.8   55  1021.9   20    9     BAHIA BLANCA AERO                                   
+24082026    16  13.2   54  1021.5   30   15     BAHIA BLANCA AERO                                   
+24082026    17  13.0   58  1020.6   40   11     BAHIA BLANCA AERO                                   
+24082026    18  11.3   68  1020.5   50   11     BAHIA BLANCA AERO                                   
+24082026    19  10.0   77  1021.0   30    9     BAHIA BLANCA AERO                                   
+24082026    20   9.2   79  1020.3   40   13     BAHIA BLANCA AERO                                   
+24082026    21   7.4   83  1020.3   50   11     BAHIA BLANCA AERO                                   
+24082026    22   7.8   86  1019.3   50   17     BAHIA BLANCA AERO                                   
+24082026    23   7.9   86  1019.0   50   11     BAHIA BLANCA AERO                                   
+24082026     0   3.4   76           90    7     BARILOCHE AERO                                      
+24082026     1   3.2   78          120    9     BARILOCHE AERO                                      
+24082026     2   3.2   81          120    9     BARILOCHE AERO                                      
+24082026     3   3.4   78           90   13     BARILOCHE AERO                                      
+24082026     4   3.3   80          110   11     BARILOCHE AERO                                      
+24082026     5   3.2   78           70    7     BARILOCHE AERO                                      
+24082026     6   2.9   81           90    7     BARILOCHE AERO                                      
+24082026     7   2.8   82          130    4     BARILOCHE AERO                                      
+24082026     8   2.6   82          150    9     BARILOCHE AERO                                      
+24082026     9   2.4   85          150    7     BARILOCHE AERO                                      
+24082026    10   3.3   80          140   11     BARILOCHE AERO                                      
+24082026    11   4.0   75          140    7     BARILOCHE AERO                                      
+24082026    12   4.7   72           40   13     BARILOCHE AERO                                      
+24082026    13   5.2   70          360   13     BARILOCHE AERO                                      
+24082026    14   5.7   66          340    7     BARILOCHE AERO                                      
+24082026    15   6.1   65          340   11     BARILOCHE AERO                                      
+24082026    16   6.4   64          340    6     BARILOCHE AERO                                      
+24082026    17   7.6   59            0    0     BARILOCHE AERO                                      
+24082026    18   6.5   67          320    9     BARILOCHE AERO                                      
+24082026    19   5.1   84          270    7     BARILOCHE AERO                                      
+24082026    20   4.9   88          320    4     BARILOCHE AERO                                      
+24082026    21   4.7   90          990    6     BARILOCHE AERO                                      
+24082026    22   4.6   88          270    7     BARILOCHE AERO                                      
+24082026    23   5.1   85          290    6     BARILOCHE AERO                                      
+24082026     0 -19.2   60   966.6  360   70     BASE BELGRANO II                                    
+24082026     3 -21.7   60   965.9  360   74     BASE BELGRANO II                                    
+24082026     6 -25.4   49   968.8  320   41     BASE BELGRANO II                                    
+24082026     9 -36.8   42   974.0  270    4     BASE BELGRANO II                                    
+24082026    12 -37.7   39   976.7  250    7     BASE BELGRANO II                                    
+24082026    15 -37.7   39   979.5  360    7     BASE BELGRANO II                                    
+24082026    18 -38.3   36   981.3  360   11     BASE BELGRANO II                                    
+24082026    21 -39.1   33   982.9  360   13     BASE BELGRANO II                                    
+24082026     0  -4.0   96  1011.7  290   41     BASE CARLINI (EX JUBANY)                            
+24082026     3  -4.2   94  1010.8  290   43     BASE CARLINI (EX JUBANY)                            
+24082026     6  -4.0   96  1009.8  290   52     BASE CARLINI (EX JUBANY)                            
+24082026     9  -3.6   96  1008.9  320   57     BASE CARLINI (EX JUBANY)                            
+24082026    12  -3.4   97  1009.3  290   44     BASE CARLINI (EX JUBANY)                            
+24082026    15  -3.1   88  1008.8  290   39     BASE CARLINI (EX JUBANY)                            
+24082026    18  -3.5   86  1008.3  320   22     BASE CARLINI (EX JUBANY)                            
+24082026    21  -4.5   96  1007.7  290   30     BASE CARLINI (EX JUBANY)                            
+24082026     0  -1.7   84  1004.4  140   26     BASE ESPERANZA                                      
+24082026     3  -1.3   85  1003.0  110   11     BASE ESPERANZA                                      
+24082026     6  -3.9   89  1003.6    0    0     BASE ESPERANZA                                      
+24082026     9  -4.3   89  1004.1  180    6     BASE ESPERANZA                                      
+24082026    12  -1.1   85  1003.6  270    4     BASE ESPERANZA                                      
+24082026    15   -.4   94  1002.2  140   19     BASE ESPERANZA                                      
+24082026    18   5.3   89  1001.0  270   28     BASE ESPERANZA                                      
+24082026    21    .0   85  1002.0  230   11     BASE ESPERANZA                                      
+24082026     0   5.6   34  1002.3  230   24     BASE MARAMBIO                                       
+24082026     1   1.2   49  1002.6  230   11     BASE MARAMBIO                                       
+24082026     2   1.8   49  1002.6  270    6     BASE MARAMBIO                                       
+24082026     3   2.4   50  1002.1  320   11     BASE MARAMBIO                                       
+24082026     4  -1.6   41  1002.3  290    6     BASE MARAMBIO                                       
+24082026     5  -1.0   36  1002.3  320    6     BASE MARAMBIO                                       
+24082026     6  -1.0   45  1002.4  320   11     BASE MARAMBIO                                       
+24082026     7    .0   39  1002.4  320   11     BASE MARAMBIO                                       
+24082026     8   1.8   40  1002.3  300   15     BASE MARAMBIO                                       
+24082026     9   2.8   35  1002.4  300   11     BASE MARAMBIO                                       
+24082026    10   3.1   21  1003.3  320    9     BASE MARAMBIO                                       
+24082026    11  -1.2   48  1002.3  320   11     BASE MARAMBIO                                       
+24082026    12    .0   52  1001.9  320   13     BASE MARAMBIO                                       
+24082026    13   -.8   59  1001.6  320   17     BASE MARAMBIO                                       
+24082026    14   -.6   57  1001.2  310   13     BASE MARAMBIO                                       
+24082026    15  -1.8   64  1000.8  320   15     BASE MARAMBIO                                       
+24082026    16  -3.1   71  1000.8  320   20     BASE MARAMBIO                                       
+24082026    17  -2.5   60  1000.8  320   15     BASE MARAMBIO                                       
+24082026    18  -2.7   55  1000.8  320    6     BASE MARAMBIO                                       
+24082026    19  -1.5   45  1000.8  230    7     BASE MARAMBIO                                       
+24082026    20    .4   39  1000.5  190   11     BASE MARAMBIO                                       
+24082026    21  -1.2   38  1000.9  190   19     BASE MARAMBIO                                       
+24082026    22  -4.4   57  1001.3  180   33     BASE MARAMBIO                                       
+24082026    23  -5.2   57  1001.4  200   37     BASE MARAMBIO                                       
+24082026     0  -9.4   90  1019.6  340   20     BASE ORCADAS                                        
+24082026     3  -7.8   88  1018.0  340   28     BASE ORCADAS                                        
+24082026     6  -6.6   89  1016.5  340   31     BASE ORCADAS                                        
+24082026     9  -4.8   87  1014.8  320   46     BASE ORCADAS                                        
+24082026    12  -3.8   90  1014.0  320   44     BASE ORCADAS                                        
+24082026    15  -3.0   93  1012.5  320   33     BASE ORCADAS                                        
+24082026    18  -3.2   91  1011.8   90    4     BASE ORCADAS                                        
+24082026    21  -3.6   90  1011.2  360   11     BASE ORCADAS                                        
+24082026     0   -.9   99  1004.8  290   22     BASE SAN MARTIN                                     
+24082026     3  -3.1   97  1005.1  290   30     BASE SAN MARTIN                                     
+24082026     6  -3.1   97  1004.8  290   35     BASE SAN MARTIN                                     
+24082026     9  -3.4   97  1005.5  320   28     BASE SAN MARTIN                                     
+24082026    12  -7.2   93  1007.1  320   24     BASE SAN MARTIN                                     
+24082026    15  -6.7   91  1007.1  320    7     BASE SAN MARTIN                                     
+24082026    18  -9.2   86  1007.2  320    9     BASE SAN MARTIN                                     
+24082026    21  -9.3   86  1007.6   20    9     BASE SAN MARTIN                                     
+24082026     9    .8   92  1027.7    0    0     BENITO JUAREZ AERO                                  
+24082026    15  10.4   56  1023.8  360    9     BENITO JUAREZ AERO                                  
+24082026    21   5.4   83  1023.2  360    4     BENITO JUAREZ AERO                                  
+24082026     9  15.9   66           90    9     BERNARDO DE IRIGOYEN AERO                           
+24082026    12  19.3   65           90    9     BERNARDO DE IRIGOYEN AERO                           
+24082026    15  21.0   62           90    4     BERNARDO DE IRIGOYEN AERO                           
+24082026    18  16.7   79          270    9     BERNARDO DE IRIGOYEN AERO                           
+24082026    21  14.2   83          270    4     BERNARDO DE IRIGOYEN AERO                           
+24082026     9   6.0   85  1027.2   50   11     BOLIVAR AERO                                        
+24082026    10   7.2   74  1027.4   50   22     BOLIVAR AERO                                        
+24082026    11   8.8   64  1027.6   50   24     BOLIVAR AERO                                        
+24082026    12  10.4   58  1026.5   90   26     BOLIVAR AERO                                        
+24082026    13  10.0   60  1026.4   90   26     BOLIVAR AERO                                        
+24082026    14  10.4   58  1025.2   90   26     BOLIVAR AERO                                        
+24082026    15  10.6   61  1024.4   90   26     BOLIVAR AERO                                        
+24082026    16  11.0   59  1023.4   90   19     BOLIVAR AERO                                        
+24082026    17  10.6   64  1022.8   90   22     BOLIVAR AERO                                        
+24082026    18  10.2   63  1022.6   90   22     BOLIVAR AERO                                        
+24082026    19   9.2   72  1022.7   90   15     BOLIVAR AERO                                        
+24082026    20   8.8   74  1022.9   90   15     BOLIVAR AERO                                        
+24082026    21   8.8   74  1023.5   90   11     BOLIVAR AERO                                        
+24082026     0   7.9   71  1027.6   70    6     BUENOS AIRES OBSERVATORIO                           
+24082026     1   8.6   67  1027.8   30    7     BUENOS AIRES OBSERVATORIO                           
+24082026     2   8.1   73  1027.4   70    4     BUENOS AIRES OBSERVATORIO                           
+24082026     3   8.0   70  1027.3   50    4     BUENOS AIRES OBSERVATORIO                           
+24082026     4   7.9   74  1026.9   90    2     BUENOS AIRES OBSERVATORIO                           
+24082026     5   8.1   72  1026.7   90    6     BUENOS AIRES OBSERVATORIO                           
+24082026     6   7.8   74  1026.7   90    4     BUENOS AIRES OBSERVATORIO                           
+24082026     7   6.9   76  1026.9  140    4     BUENOS AIRES OBSERVATORIO                           
+24082026     8   6.2   78  1027.6  140    6     BUENOS AIRES OBSERVATORIO                           
+24082026     9   8.3   65  1028.2  160    4     BUENOS AIRES OBSERVATORIO                           
+24082026    10  10.1   62  1028.2  360    6     BUENOS AIRES OBSERVATORIO                           
+24082026    11  10.3   61  1028.0  360   11     BUENOS AIRES OBSERVATORIO                           
+24082026    12  11.9   56  1027.6   70    9     BUENOS AIRES OBSERVATORIO                           
+24082026    13  11.3   57  1027.2  360   13     BUENOS AIRES OBSERVATORIO                           
+24082026    14  12.0   56  1025.9   90    7     BUENOS AIRES OBSERVATORIO                           
+24082026    15  11.4   54  1025.1   90    7     BUENOS AIRES OBSERVATORIO                           
+24082026    16  12.5   50  1024.1  360   11     BUENOS AIRES OBSERVATORIO                           
+24082026    17  12.1   53  1023.9   20    6     BUENOS AIRES OBSERVATORIO                           
+24082026    18  11.4   58  1024.0   90    4     BUENOS AIRES OBSERVATORIO                           
+24082026    19  10.1   65  1023.3   90    7     BUENOS AIRES OBSERVATORIO                           
+24082026    20  10.1   67  1023.9   70    6     BUENOS AIRES OBSERVATORIO                           
+24082026    21  10.1   70  1023.9   50    7     BUENOS AIRES OBSERVATORIO                           
+24082026    22  10.0   73  1024.2   50    7     BUENOS AIRES OBSERVATORIO                           
+24082026    23   9.8   72  1024.0   50    7     BUENOS AIRES OBSERVATORIO                           
+24082026     9   7.2   73  1028.6  360    4     CAMPO DE MAYO AERO                                  
+24082026    10   9.0   66  1028.5  360   13     CAMPO DE MAYO AERO                                  
+24082026    11   9.8   66  1028.3  360    7     CAMPO DE MAYO AERO                                  
+24082026    12  10.4   62  1027.7   60   13     CAMPO DE MAYO AERO                                  
+24082026    13  11.0   59  1027.2   50   13     CAMPO DE MAYO AERO                                  
+24082026    14  11.0   58  1025.6   20    9     CAMPO DE MAYO AERO                                  
+24082026    15  11.0   58  1025.5   50    9     CAMPO DE MAYO AERO                                  
+24082026    16  11.4   55  1024.3   90   13     CAMPO DE MAYO AERO                                  
+24082026    17  11.0   57  1024.2   90   13     CAMPO DE MAYO AERO                                  
+24082026    18  10.0   68  1024.2   50   11     CAMPO DE MAYO AERO                                  
+24082026    19   8.4   71  1023.9   50   11     CAMPO DE MAYO AERO                                  
+24082026    20   7.6   77  1024.5   50    9     CAMPO DE MAYO AERO                                  
+24082026     0  16.1   63  1019.3   50   26     CATAMARCA AERO                                      
+24082026     1  15.7   68  1019.9   30   13     CATAMARCA AERO                                      
+24082026     2  15.2   71  1019.9  250    6     CATAMARCA AERO                                      
+24082026     3  13.4   65  1019.5  200   11     CATAMARCA AERO                                      
+24082026     4  12.9   70  1019.4  180    6     CATAMARCA AERO                                      
+24082026     5  12.6   70  1019.2  320    4     CATAMARCA AERO                                      
+24082026     6  12.7   70  1018.9   30    7     CATAMARCA AERO                                      
+24082026     7  13.2   68  1018.6   20   17     CATAMARCA AERO                                      
+24082026     8  12.7   70  1019.5   30   15     CATAMARCA AERO                                      
+24082026     9  12.6   71  1019.8  320    7     CATAMARCA AERO                                      
+24082026    10  16.2   59  1019.1  140    4     CATAMARCA AERO                                      
+24082026    11  16.4   53  1018.6  230   13     CATAMARCA AERO                                      
+24082026    12  20.4   42  1017.4   50   31     CATAMARCA AERO                                      
+24082026    13  23.0   39  1015.8   50   37     CATAMARCA AERO                                      
+24082026    14  23.8   38  1014.2   20   33     CATAMARCA AERO                                      
+24082026    15  24.2   37  1013.0   50   30     CATAMARCA AERO                                      
+24082026    16  23.6   36  1012.0   50   39     CATAMARCA AERO                                      
+24082026    17  23.2   38  1011.8   50   31     CATAMARCA AERO                                      
+24082026    18  21.8   42  1011.9   20   35     CATAMARCA AERO                                      
+24082026    19  19.2   50  1012.0   50   37     CATAMARCA AERO                                      
+24082026    20  18.2   57  1012.9   50   39     CATAMARCA AERO                                      
+24082026    21  18.2   53  1012.4   50   44     CATAMARCA AERO                                      
+24082026    22  17.6   58  1012.6   50   46     CATAMARCA AERO                                      
+24082026    23  17.6   58  1013.0   50   43     CATAMARCA AERO                                      
+24082026     9  11.4   78  1024.4   90   11     CERES AERO                                          
+24082026    10  11.4   78  1024.2   70   17     CERES AERO                                          
+24082026    11  13.6   59  1024.0   60   17     CERES AERO                                          
+24082026    12  15.6   50  1023.5   50   11     CERES AERO                                          
+24082026    13  17.6   41  1022.7   40    9     CERES AERO                                          
+24082026    14  18.6   41  1021.7   40   13     CERES AERO                                          
+24082026    15  19.2   39  1020.1   50   17     CERES AERO                                          
+24082026    16  19.4   40  1018.9   60   13     CERES AERO                                          
+24082026    17  19.0   48  1018.7   70   15     CERES AERO                                          
+24082026    18  17.6   57  1018.8   70   11     CERES AERO                                          
+24082026    19  15.2   67  1018.7   70    7     CERES AERO                                          
+24082026    20  13.0   77  1018.7   70   11     CERES AERO                                          
+24082026    21  11.0   88  1019.1   80   11     CERES AERO                                          
+24082026     9  10.9   65  1022.1  140    9     CHAMICAL AERO                                       
+24082026    13  18.4   45          140    9     CHAMICAL AERO                                       
+24082026    14  20.2   39  1016.5   50   15     CHAMICAL AERO                                       
+24082026    15  21.3   37  1014.9   70   15     CHAMICAL AERO                                       
+24082026    21  16.2   49  1015.6   90   15     CHAMICAL AERO                                       
+24082026     6   2.2   87  1018.6    0    0     CHAPELCO AERO                                       
+24082026     7   2.0   90  1018.6    0    0     CHAPELCO AERO                                       
+24082026     8   2.0   90  1018.4   20    9     CHAPELCO AERO                                       
+24082026     9   2.2   87  1018.5   40    7     CHAPELCO AERO                                       
+24082026    10   2.6   84  1018.5   60   11     CHAPELCO AERO                                       
+24082026    11   3.0   84  1018.4  360    7     CHAPELCO AERO                                       
+24082026    12   3.4   81  1018.5    0    0     CHAPELCO AERO                                       
+24082026    13   3.8   78  1017.5    0    0     CHAPELCO AERO                                       
+24082026    14   4.4   79  1016.3   50    7     CHAPELCO AERO                                       
+24082026    15   5.6   75  1014.2   40    6     CHAPELCO AERO                                       
+24082026    16   6.6   70  1013.6   60    7     CHAPELCO AERO                                       
+24082026    17   7.6   66  1012.5    0    0     CHAPELCO AERO                                       
+24082026    18   8.0   64  1012.4  250   20     CHAPELCO AERO                                       
+24082026    19   6.4   78  1013.1  250   15     CHAPELCO AERO                                       
+24082026    20   6.0   77  1013.2  270   15     CHAPELCO AERO                                       
+24082026    21   5.8   80  1013.3  260   13     CHAPELCO AERO                                       
+24082026     9   8.4   72  1018.8   20    9     CHEPES                                              
+24082026    15  21.2   38          360   15     CHEPES                                              
+24082026    21  14.7   55  1014.4   20   15     CHEPES                                              
+24082026     9   5.9   87            0    0     CHILECITO AERO                                      
+24082026    21  13.8   66          210    4     CHILECITO AERO                                      
+24082026     0   1.2   91  1021.4  250    4     COMODORO RIVADAVIA AERO                             
+24082026     1   1.3   92  1020.8  260    6     COMODORO RIVADAVIA AERO                             
+24082026     2   2.0   70  1020.3  190    7     COMODORO RIVADAVIA AERO                             
+24082026     3   1.7   91  1019.7  990    2     COMODORO RIVADAVIA AERO                             
+24082026     4   1.2   89  1018.7  300    9     COMODORO RIVADAVIA AERO                             
+24082026     5   2.5   84  1017.8  280    7     COMODORO RIVADAVIA AERO                             
+24082026     6   2.0   87  1017.5  300   11     COMODORO RIVADAVIA AERO                             
+24082026     7   2.2   87  1016.5  250    6     COMODORO RIVADAVIA AERO                             
+24082026     8   1.3   89  1016.6  270    4     COMODORO RIVADAVIA AERO                             
+24082026     9   1.8   87  1016.1  270    7     COMODORO RIVADAVIA AERO                             
+24082026    10   5.7   79  1015.2  290    9     COMODORO RIVADAVIA AERO                             
+24082026    11   8.6   64  1014.5  290   13     COMODORO RIVADAVIA AERO                             
+24082026    12   9.9   61  1013.3  270   13     COMODORO RIVADAVIA AERO                             
+24082026    13   9.9   60  1012.3   50   19     COMODORO RIVADAVIA AERO                             
+24082026    14  10.8   61  1011.4   20   17     COMODORO RIVADAVIA AERO                             
+24082026    15  12.2   46  1010.2  320   20     COMODORO RIVADAVIA AERO                             
+24082026    16  11.4   54  1009.4  320   19     COMODORO RIVADAVIA AERO                             
+24082026    17  12.4   51  1008.8  320   17     COMODORO RIVADAVIA AERO                             
+24082026    18  11.4   58  1008.2  320    9     COMODORO RIVADAVIA AERO                             
+24082026    19  10.7   59  1008.0  990    4     COMODORO RIVADAVIA AERO                             
+24082026    20   9.8   59  1007.2   20    6     COMODORO RIVADAVIA AERO                             
+24082026    21   9.8   67  1006.6  990    2     COMODORO RIVADAVIA AERO                             
+24082026    22  11.2   51  1006.4  320   17     COMODORO RIVADAVIA AERO                             
+24082026    23  10.5   55  1006.4  270    9     COMODORO RIVADAVIA AERO                             
+24082026     6   5.0   88  1026.5  200    6     CONCORDIA AERO                                      
+24082026     7   4.4   93  1026.6    0    0     CONCORDIA AERO                                      
+24082026     8   4.6   90  1027.0    0    0     CONCORDIA AERO                                      
+24082026     9   6.6   85  1027.5  110    6     CONCORDIA AERO                                      
+24082026    10   9.6   73  1027.3  100    7     CONCORDIA AERO                                      
+24082026    11  11.8   64  1027.0   90   11     CONCORDIA AERO                                      
+24082026    12  13.6   57  1025.8   90   11     CONCORDIA AERO                                      
+24082026    13  15.0   51  1025.3  110   11     CONCORDIA AERO                                      
+24082026    14  16.1   46  1023.9  180    9     CONCORDIA AERO                                      
+24082026    15  16.7   45  1023.1  180   11     CONCORDIA AERO                                      
+24082026    16  16.4   44  1022.4  140    9     CONCORDIA AERO                                      
+24082026    17  16.2   47  1021.9  140    9     CONCORDIA AERO                                      
+24082026    18  15.0   49  1022.4  140   11     CONCORDIA AERO                                      
+24082026    19  12.2   69  1022.0  140    6     CONCORDIA AERO                                      
+24082026    20  11.5   71  1022.6  140    7     CONCORDIA AERO                                      
+24082026    21  10.9   71  1022.7  140    9     CONCORDIA AERO                                      
+24082026     0   9.8   75  1025.2   10    6     CORDOBA AERO                                        
+24082026     1   9.5   78  1024.5   50    4     CORDOBA AERO                                        
+24082026     2   9.3   77  1024.1    0    0     CORDOBA AERO                                        
+24082026     3   9.1   80  1023.6   60    9     CORDOBA AERO                                        
+24082026     4   8.7   84  1022.8   50    7     CORDOBA AERO                                        
+24082026     5   8.7   82  1022.5   70    9     CORDOBA AERO                                        
+24082026     6   8.7   82  1023.0  100    6     CORDOBA AERO                                        
+24082026     7   9.2   72  1023.1   60   13     CORDOBA AERO                                        
+24082026     8   9.4   72  1024.0   70   11     CORDOBA AERO                                        
+24082026     9   9.6   75  1024.0   50    7     CORDOBA AERO                                        
+24082026    10  11.6   66  1023.5   40   15     CORDOBA AERO                                        
+24082026    11  13.4   62  1023.4   30   24     CORDOBA AERO                                        
+24082026    12  14.8   57  1022.8   40   24     CORDOBA AERO                                        
+24082026    13  16.4   53  1021.3   40   24     CORDOBA AERO                                        
+24082026    14  16.6   44  1019.9   50   28     CORDOBA AERO                                        
+24082026    15  18.2   47  1018.1   30   35     CORDOBA AERO                                        
+24082026    16  18.0   47  1017.5   40   31     CORDOBA AERO                                        
+24082026    17  17.2   50  1017.2   50   35     CORDOBA AERO                                        
+24082026    18  16.0   61  1017.0   40   30     CORDOBA AERO                                        
+24082026    19  13.2   63  1017.5   40   22     CORDOBA AERO                                        
+24082026    20  12.0   64  1017.5   20   26     CORDOBA AERO                                        
+24082026    21  10.0   75  1018.7   30   17     CORDOBA AERO                                        
+24082026    22   7.9   77  1019.4   20   15     CORDOBA AERO                                        
+24082026    23   8.5   91  1018.9   30   17     CORDOBA AERO                                        
+24082026     0  11.4   69  1024.7   20    4     CORDOBA OBSERVATORIO                                
+24082026     1  11.4   66  1024.3   50    6     CORDOBA OBSERVATORIO                                
+24082026     2  11.4   64  1023.8   50    7     CORDOBA OBSERVATORIO                                
+24082026     3  11.2   66  1023.0   50    7     CORDOBA OBSERVATORIO                                
+24082026     4  11.2   66  1022.8   50    6     CORDOBA OBSERVATORIO                                
+24082026     5  11.1   64  1022.3   50    7     CORDOBA OBSERVATORIO                                
+24082026     6  11.0   65  1022.6   50    7     CORDOBA OBSERVATORIO                                
+24082026     7  11.0   65  1022.6   90    7     CORDOBA OBSERVATORIO                                
+24082026     8  10.6   72  1023.5   90    9     CORDOBA OBSERVATORIO                                
+24082026     9  10.8   71  1023.5   70    9     CORDOBA OBSERVATORIO                                
+24082026    10  11.8   67  1023.4   40    6     CORDOBA OBSERVATORIO                                
+24082026    11  13.6   63  1023.5   40    7     CORDOBA OBSERVATORIO                                
+24082026    12  15.2   57  1022.8   70    9     CORDOBA OBSERVATORIO                                
+24082026    13  17.2   51  1021.2   50   15     CORDOBA OBSERVATORIO                                
+24082026    14  17.9   45  1019.7   70   15     CORDOBA OBSERVATORIO                                
+24082026    15  19.2   44  1018.0   70   13     CORDOBA OBSERVATORIO                                
+24082026    16  18.0   46  1017.4   70   17     CORDOBA OBSERVATORIO                                
+24082026    17  18.2   46  1016.9   70   17     CORDOBA OBSERVATORIO                                
+24082026    18  16.9   48  1016.9   60   17     CORDOBA OBSERVATORIO                                
+24082026    19  15.8   54  1017.2   70   15     CORDOBA OBSERVATORIO                                
+24082026    20  14.3   56  1017.1   60   13     CORDOBA OBSERVATORIO                                
+24082026    21  12.5   68  1018.0   50    9     CORDOBA OBSERVATORIO                                
+24082026    22  11.7   72  1019.0   40    9     CORDOBA OBSERVATORIO                                
+24082026    23  11.4   73  1018.6   40    9     CORDOBA OBSERVATORIO                                
+24082026     6   3.2   86  1026.6  160    6     CORONEL SUAREZ AERO                                 
+24082026     7   3.3   85  1026.7  140    6     CORONEL SUAREZ AERO                                 
+24082026     8   3.1   86  1026.6  140    7     CORONEL SUAREZ AERO                                 
+24082026     9   3.6   85  1026.6  140    7     CORONEL SUAREZ AERO                                 
+24082026    10   5.2   78  1026.6   50   11     CORONEL SUAREZ AERO                                 
+24082026    11   6.2   76  1026.7   50    9     CORONEL SUAREZ AERO                                 
+24082026    12   7.9   69  1026.6   20   17     CORONEL SUAREZ AERO                                 
+24082026    15  10.6   59  1022.8   20   26     CORONEL SUAREZ AERO                                 
+24082026    21   8.0   74  1022.1   20   20     CORONEL SUAREZ AERO                                 
+24082026     0  11.5   72  1022.6  160   15     CORRIENTES AERO                                     
+24082026     1  10.7   76  1022.5  160   13     CORRIENTES AERO                                     
+24082026     2  10.4   75  1022.4  160   15     CORRIENTES AERO                                     
+24082026     3  10.3   75  1022.1  160    9     CORRIENTES AERO                                     
+24082026     4  10.1   76  1022.4  170    9     CORRIENTES AERO                                     
+24082026     5   9.1   83  1022.2  160    9     CORRIENTES AERO                                     
+24082026     6   9.5   81  1022.3  160   13     CORRIENTES AERO                                     
+24082026     7   9.5   81  1022.6  150   15     CORRIENTES AERO                                     
+24082026     8   9.8   77  1023.1  150   13     CORRIENTES AERO                                     
+24082026     9  11.5   68  1023.1  140   17     CORRIENTES AERO                                     
+24082026    10  13.1   62  1023.0  130   15     CORRIENTES AERO                                     
+24082026    11  15.1   51  1023.0  140   17     CORRIENTES AERO                                     
+24082026    12  15.5   51  1023.0  130   13     CORRIENTES AERO                                     
+24082026    13  16.1   53  1022.3  120    9     CORRIENTES AERO                                     
+24082026    14  17.0   50  1021.5  140   13     CORRIENTES AERO                                     
+24082026    15  18.2   45  1020.2  140   15     CORRIENTES AERO                                     
+24082026    16  18.2   44  1019.3  150   13     CORRIENTES AERO                                     
+24082026    17  18.3   42  1019.1  160   19     CORRIENTES AERO                                     
+24082026    18  16.8   49  1019.8  150   11     CORRIENTES AERO                                     
+24082026    19  15.1   56  1019.5  140    9     CORRIENTES AERO                                     
+24082026    20  13.9   60  1019.4  140    9     CORRIENTES AERO                                     
+24082026    21  13.3   67  1019.6  160   11     CORRIENTES AERO                                     
+24082026    22  11.7   76  1019.6  170   11     CORRIENTES AERO                                     
+24082026    23  11.7   76  1019.5  160   13     CORRIENTES AERO                                     
+24082026     9   5.8   75  1028.2  140    4     DOLORES AERO                                        
+24082026    10   7.4   63  1028.2   90    6     DOLORES AERO                                        
+24082026    11   9.2   53  1028.3  110    6     DOLORES AERO                                        
+24082026    12   9.6   54  1028.1  320    2     DOLORES AERO                                        
+24082026    13   9.6   56  1027.4  180    6     DOLORES AERO                                        
+24082026    14  11.2   56  1026.2  180    6     DOLORES AERO                                        
+24082026    15  11.0   52  1025.7  230    4     DOLORES AERO                                        
+24082026    16  10.6   53  1025.0  180    4     DOLORES AERO                                        
+24082026    17  10.6   53  1024.8   90    4     DOLORES AERO                                        
+24082026    18   9.2   63  1024.6   70    6     DOLORES AERO                                        
+24082026    19   7.8   69  1024.1   70    6     DOLORES AERO                                        
+24082026    20   6.2   78  1024.6   90    6     DOLORES AERO                                        
+24082026    21   5.8   81  1024.6   70    6     DOLORES AERO                                        
+24082026     9   1.0   92  1015.8    0    0     EL BOLSON AERO                                      
+24082026    12   6.9   66  1015.5  180   19     EL BOLSON AERO                                      
+24082026    15   8.7   63  1012.8    0    0     EL BOLSON AERO                                      
+24082026    18   9.2   63  1010.0    0    0     EL BOLSON AERO                                      
+24082026    21   7.3   78  1009.7    0    0     EL BOLSON AERO                                      
+24082026     0    .6   92  1017.5  360   22     EL CALAFATE AERO                                    
+24082026     1    .6   92  1017.2  360   22     EL CALAFATE AERO                                    
+24082026     2    .4   89  1016.1  360   11     EL CALAFATE AERO                                    
+24082026     3   -.2   96  1015.3  360   15     EL CALAFATE AERO                                    
+24082026     4    .4   92  1014.5  360    7     EL CALAFATE AERO                                    
+24082026     5    .2   92  1013.7  990    2     EL CALAFATE AERO                                    
+24082026     6   -.4   96  1013.4  140    7     EL CALAFATE AERO                                    
+24082026     7   -.4   96  1013.2  120    7     EL CALAFATE AERO                                    
+24082026     8   -.4   96  1012.6  110    6     EL CALAFATE AERO                                    
+24082026     9   -.2   92  1011.7  120    9     EL CALAFATE AERO                                    
+24082026    10    .0   92  1011.3  120   17     EL CALAFATE AERO                                    
+24082026    11    .4   92  1010.8  360   11     EL CALAFATE AERO                                    
+24082026    12    .8   85  1010.1   20    9     EL CALAFATE AERO                                    
+24082026    13   1.0   89  1009.2   10    7     EL CALAFATE AERO                                    
+24082026    14   1.4   85  1008.7  320    7     EL CALAFATE AERO                                    
+24082026    15   1.6   86  1008.0  320    4     EL CALAFATE AERO                                    
+24082026    16   2.0   82  1006.7   20    6     EL CALAFATE AERO                                    
+24082026    17   2.4   83  1006.0   20    9     EL CALAFATE AERO                                    
+24082026    18   2.2   83  1005.3  340    9     EL CALAFATE AERO                                    
+24082026    19   2.2   86  1004.9  360    7     EL CALAFATE AERO                                    
+24082026    20   1.8   86  1004.3  360    6     EL CALAFATE AERO                                    
+24082026    21   2.0   86  1003.9  360    7     EL CALAFATE AERO                                    
+24082026    22   1.2   85  1003.8  110    6     EL CALAFATE AERO                                    
+24082026    23    .4   89  1003.2  110    7     EL CALAFATE AERO                                    
+24082026     0   5.0   89  1027.6   60    4     EL PALOMAR AERO                                     
+24082026     1   4.2   87  1027.5   80    4     EL PALOMAR AERO                                     
+24082026     2   4.0   89  1027.3   70    6     EL PALOMAR AERO                                     
+24082026     3   4.8   88  1027.2   50    2     EL PALOMAR AERO                                     
+24082026     4   4.8   84  1026.8    0    0     EL PALOMAR AERO                                     
+24082026     5   4.6   90  1026.8  320    4     EL PALOMAR AERO                                     
+24082026     6   4.5   90  1026.4  140    4     EL PALOMAR AERO                                     
+24082026     7   3.6   97  1026.9  330    2     EL PALOMAR AERO                                     
+24082026     8   2.0   97  1027.6  330    2     EL PALOMAR AERO                                     
+24082026     9   7.3   75  1028.1  290    4     EL PALOMAR AERO                                     
+24082026    10   9.2   65  1028.2  330    6     EL PALOMAR AERO                                     
+24082026    11  10.4   62  1028.0   40    7     EL PALOMAR AERO                                     
+24082026    12  11.3   58  1027.5   50   11     EL PALOMAR AERO                                     
+24082026    13  11.2   56  1027.0   50    9     EL PALOMAR AERO                                     
+24082026    14  11.3   55  1025.5   50    9     EL PALOMAR AERO                                     
+24082026    15  11.3   57  1025.1   50    7     EL PALOMAR AERO                                     
+24082026    16  11.2   53  1024.0   50   11     EL PALOMAR AERO                                     
+24082026    17  11.3   53  1023.9   50    7     EL PALOMAR AERO                                     
+24082026    18  11.1   57  1023.7   60    9     EL PALOMAR AERO                                     
+24082026    19   9.8   63  1023.1   70    7     EL PALOMAR AERO                                     
+24082026    20   9.2   68  1024.1   80    7     EL PALOMAR AERO                                     
+24082026    21   9.3   70  1023.6   70    9     EL PALOMAR AERO                                     
+24082026    22   9.5   72  1024.0   70    9     EL PALOMAR AERO                                     
+24082026    23   9.3   74  1023.7   70   11     EL PALOMAR AERO                                     
+24082026     7  10.4   67  1023.7   20    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026     8  10.0   73  1024.3   20    6     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026     9  10.2   73  1024.3   20    9     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    10  11.6   66  1023.9   20   13     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    11  13.6   60  1024.0   20   11     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    12  14.8   55  1023.1   20   15     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    13  17.0   49  1021.4   20   19     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    14  17.4   49  1020.2   20   26     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    15  17.9   47  1018.6   40   20     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    16  17.9   48  1017.9   30   22     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    17  17.5   48  1017.7   20   22     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    18  16.6   50  1017.3   20   24     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    19  15.0   54  1017.8   30   20     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    20  13.6   58  1017.7   30   24     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026    21  12.3   63  1018.5   30   13     ESCUELA DE AVIACION MILITA                          
+                                            R AERO                                                  
+                                                                                                    
+24082026     0    .2   91  1019.8  360   15     ESQUEL AERO                                         
+24082026     1    .1   91  1019.3   30   15     ESQUEL AERO                                         
+24082026     2   -.1   92  1018.6   30   15     ESQUEL AERO                                         
+24082026     3   -.4   92  1017.8   30   17     ESQUEL AERO                                         
+24082026     4   -.6   92  1016.8   30   20     ESQUEL AERO                                         
+24082026     5   -.5   94  1016.1  360   11     ESQUEL AERO                                         
+24082026     6  -1.0   92  1016.1  360    9     ESQUEL AERO                                         
+24082026     7   -.6   92  1016.8  360    9     ESQUEL AERO                                         
+24082026     8   -.8   92  1017.2   10    9     ESQUEL AERO                                         
+24082026     9    .3   98  1016.6   20   15     ESQUEL AERO                                         
+24082026    10    .4   96  1015.9   20   15     ESQUEL AERO                                         
+24082026    11    .6   94  1015.9   20   13     ESQUEL AERO                                         
+24082026    12   2.7   86  1014.8   30   11     ESQUEL AERO                                         
+24082026    13   5.8   72  1014.6   50   11     ESQUEL AERO                                         
+24082026    14   6.2   68  1013.3   40   15     ESQUEL AERO                                         
+24082026    15   6.8   65  1011.5   40   15     ESQUEL AERO                                         
+24082026    16   7.6   64  1010.6   30    4     ESQUEL AERO                                         
+24082026    17   7.7   68  1009.9  990    4     ESQUEL AERO                                         
+24082026    18   7.2   66  1009.4  990    4     ESQUEL AERO                                         
+24082026    19   7.2   68  1009.1  990    2     ESQUEL AERO                                         
+24082026    20   5.6   76  1009.3  270    4     ESQUEL AERO                                         
+24082026    21   5.5   78  1009.3  250    4     ESQUEL AERO                                         
+24082026    22   4.8   78  1009.2  270    4     ESQUEL AERO                                         
+24082026    23   3.7   80  1009.4  320    6     ESQUEL AERO                                         
+24082026     0   4.0   85  1027.8  110    6     EZEIZA AERO                                         
+24082026     1   4.3   86  1027.9  110    6     EZEIZA AERO                                         
+24082026     2   4.1   87  1027.6  110    6     EZEIZA AERO                                         
+24082026     3   3.5   88  1027.6  110    4     EZEIZA AERO                                         
+24082026     4   3.6   88  1027.0  110    4     EZEIZA AERO                                         
+24082026     5   2.6   91  1026.8  110    7     EZEIZA AERO                                         
+24082026     6   2.4   91  1026.9  110    6     EZEIZA AERO                                         
+24082026     7   4.0   84  1027.3  110    6     EZEIZA AERO                                         
+24082026     8   4.0   77  1027.9  110    6     EZEIZA AERO                                         
+24082026     9   7.0   72  1028.2  110    7     EZEIZA AERO                                         
+24082026    10  10.0   53  1028.3   90   11     EZEIZA AERO                                         
+24082026    11  10.8   55  1028.2   70   11     EZEIZA AERO                                         
+24082026    12  11.2   51  1027.6   70   15     EZEIZA AERO                                         
+24082026    13  11.4   54  1027.1   70    9     EZEIZA AERO                                         
+24082026    14  12.0   54  1025.6   50    7     EZEIZA AERO                                         
+24082026    15  12.0   52  1025.1   50    9     EZEIZA AERO                                         
+24082026    16  11.8   54  1024.2   50   15     EZEIZA AERO                                         
+24082026    17  11.2   55  1024.1   50   17     EZEIZA AERO                                         
+24082026    18  11.0   57  1024.1   50   13     EZEIZA AERO                                         
+24082026    19   9.5   63  1023.4   70   13     EZEIZA AERO                                         
+24082026    20   9.0   65  1024.0   90   13     EZEIZA AERO                                         
+24082026    21   7.9   74  1023.8   90   13     EZEIZA AERO                                         
+24082026    22   8.4   73  1024.4  100    7     EZEIZA AERO                                         
+24082026    23   6.2   85  1024.2  120    9     EZEIZA AERO                                         
+24082026     0  12.0   83  1021.6  140    9     FORMOSA AERO                                        
+24082026     1  12.0   80  1021.4  160   11     FORMOSA AERO                                        
+24082026     2  11.8   81  1021.4  140    9     FORMOSA AERO                                        
+24082026     3  11.6   82  1021.1  160    9     FORMOSA AERO                                        
+24082026     4  11.1   88  1021.1  160   11     FORMOSA AERO                                        
+24082026     5  10.8   86  1021.1  160   15     FORMOSA AERO                                        
+24082026     6  11.0   85  1021.3  140   11     FORMOSA AERO                                        
+24082026     7  11.1   84  1021.7  140   11     FORMOSA AERO                                        
+24082026     8  11.1   84  1022.2  140    9     FORMOSA AERO                                        
+24082026     9  12.1   77  1021.5  140   19     FORMOSA AERO                                        
+24082026    10  14.1   58  1021.3  140   17     FORMOSA AERO                                        
+24082026    11  16.3   55  1021.6  110   19     FORMOSA AERO                                        
+24082026    12  18.1   54  1021.8  160   11     FORMOSA AERO                                        
+24082026    13  18.1   54  1021.6  140   11     FORMOSA AERO                                        
+24082026    14  18.9   50  1020.0  140   13     FORMOSA AERO                                        
+24082026    15  19.1   53  1019.2  140   13     FORMOSA AERO                                        
+24082026    16  18.6   57  1018.4  160   13     FORMOSA AERO                                        
+24082026    17  18.1   59  1018.8  180   11     FORMOSA AERO                                        
+24082026    18  17.1   65  1019.0  140    7     FORMOSA AERO                                        
+24082026    19  15.8   72  1018.5  140    9     FORMOSA AERO                                        
+24082026    20  15.1   73  1018.7  180    7     FORMOSA AERO                                        
+24082026    21  13.4   81  1018.9  180   11     FORMOSA AERO                                        
+24082026    22  12.4   83  1018.8  160    9     FORMOSA AERO                                        
+24082026    23  13.0   78  1018.5  110    9     FORMOSA AERO                                        
+24082026     9   6.1   84  1023.7   70   20     GENERAL PICO AERO                                   
+24082026    10   8.9   70  1023.8   50   20     GENERAL PICO AERO                                   
+24082026    11  11.1   56  1023.3   50   31     GENERAL PICO AERO                                   
+24082026    12  13.2   52  1022.3   50   31     GENERAL PICO AERO                                   
+24082026    13  14.7   48  1021.1   20   31     GENERAL PICO AERO                                   
+24082026    14  15.5   45  1020.8   20   28     GENERAL PICO AERO                                   
+24082026    15  16.2   45  1019.4   50   26     GENERAL PICO AERO                                   
+24082026    16  16.5   49  1018.3   50   24     GENERAL PICO AERO                                   
+24082026    17  16.7   47  1018.0   50   24     GENERAL PICO AERO                                   
+24082026    18  16.0   54  1017.7   50   20     GENERAL PICO AERO                                   
+24082026    19  14.3   61  1018.4   90   19     GENERAL PICO AERO                                   
+24082026    20  12.5   65  1018.2   70   24     GENERAL PICO AERO                                   
+24082026    21  12.4   65  1019.1   70   20     GENERAL PICO AERO                                   
+24082026     9    .5   90  1011.3    0    0     GOBERNADOR GREGORES AERO                            
+24082026    15   5.5   64            0    0     GOBERNADOR GREGORES AERO                            
+24082026    21   1.0   88  1004.1    0    0     GOBERNADOR GREGORES AERO                            
+24082026     6   3.0   90  1026.2    0    0     GUALEGUAYCHU AERO                                   
+24082026     7   3.8   87  1026.9   90    4     GUALEGUAYCHU AERO                                   
+24082026     8   3.6   87  1027.1   90    4     GUALEGUAYCHU AERO                                   
+24082026     9   5.8   79  1027.3   70   15     GUALEGUAYCHU AERO                                   
+24082026    10   8.4   67  1027.6   70   19     GUALEGUAYCHU AERO                                   
+24082026    11   9.1   65  1027.1   70   15     GUALEGUAYCHU AERO                                   
+24082026    12  10.3   60  1027.0   70   15     GUALEGUAYCHU AERO                                   
+24082026    13  11.4   58  1026.1   70   15     GUALEGUAYCHU AERO                                   
+24082026    14  12.8   58  1024.6   90   11     GUALEGUAYCHU AERO                                   
+24082026    15  13.5   56  1023.3  110   11     GUALEGUAYCHU AERO                                   
+24082026    16  13.6   53  1023.4  110   11     GUALEGUAYCHU AERO                                   
+24082026    17  13.6   55  1022.6  110   11     GUALEGUAYCHU AERO                                   
+24082026    18  12.7   57  1022.7  110    9     GUALEGUAYCHU AERO                                   
+24082026    19  10.9   65  1022.2   90    6     GUALEGUAYCHU AERO                                   
+24082026    20   9.8   70  1022.5   90    6     GUALEGUAYCHU AERO                                   
+24082026    21   9.4   69  1022.8   90    9     GUALEGUAYCHU AERO                                   
+24082026     0  12.4   80  1021.3    0    0     IGUAZU AERO                                         
+24082026     1   9.6   85  1020.7    0    0     IGUAZU AERO                                         
+24082026     2   9.4   85  1020.0    0    0     IGUAZU AERO                                         
+24082026     3   9.2   86  1019.8    0    0     IGUAZU AERO                                         
+24082026     4   8.5   94  1020.1  230    4     IGUAZU AERO                                         
+24082026     5   7.7   93  1020.3  230    6     IGUAZU AERO                                         
+24082026     6   6.9   94  1020.3    0    0     IGUAZU AERO                                         
+24082026     7   6.4   94  1021.5  270    4     IGUAZU AERO                                         
+24082026     8   9.0   87  1022.0  270    6     IGUAZU AERO                                         
+24082026     9  11.2   84  1022.2  270    6     IGUAZU AERO                                         
+24082026    10  16.0   64  1021.8  140    7     IGUAZU AERO                                         
+24082026    11  17.8   53  1021.4  180    6     IGUAZU AERO                                         
+24082026    12  20.5   49  1020.6  180    4     IGUAZU AERO                                         
+24082026    13  22.2   47  1019.2  200    6     IGUAZU AERO                                         
+24082026    14  22.8   46  1018.3  270    6     IGUAZU AERO                                         
+24082026    15  22.5   54  1017.9  270   11     IGUAZU AERO                                         
+24082026    16  22.1   56  1017.5  230    9     IGUAZU AERO                                         
+24082026    17  20.6   62  1017.6  230    6     IGUAZU AERO                                         
+24082026    18  19.2   75  1017.9  320    6     IGUAZU AERO                                         
+24082026    19  18.6   74  1018.2  270    6     IGUAZU AERO                                         
+24082026    20  18.2   79  1019.2  270    7     IGUAZU AERO                                         
+24082026    21  15.7   91  1019.2  230    6     IGUAZU AERO                                         
+24082026    22  15.5   89  1018.5   20    4     IGUAZU AERO                                         
+24082026    23  15.1   93  1017.9  250    4     IGUAZU AERO                                         
+24082026     9  11.4   76  1022.9  140   11     ITUZAINGO                                           
+24082026    12  18.2   56  1021.5  140    9     ITUZAINGO                                           
+24082026    15  17.8   62  1019.3  180   11     ITUZAINGO                                           
+24082026    18  15.8   75  1018.6  140    9     ITUZAINGO                                           
+24082026    21  12.4   88  1018.6    0    0     ITUZAINGO                                           
+24082026     9   2.9   82            0    0     JACHAL                                              
+24082026    12  13.3   44          180    4     JACHAL                                              
+24082026    15  17.5   37          180    4     JACHAL                                              
+24082026    18  19.2   35          140    9     JACHAL                                              
+24082026    21  14.9   50            0    0     JACHAL                                              
+24082026     0  15.8   58          140    6     JUJUY AERO                                          
+24082026     1  14.9   71          350    2     JUJUY AERO                                          
+24082026     2  14.3   73          340    4     JUJUY AERO                                          
+24082026     3  14.2   71          320    9     JUJUY AERO                                          
+24082026     4  14.4   70          990    6     JUJUY AERO                                          
+24082026     5  14.0   75          990    2     JUJUY AERO                                          
+24082026     6  14.1   74          140    4     JUJUY AERO                                          
+24082026     7  14.0   73          120    9     JUJUY AERO                                          
+24082026     8  13.6   75          990    4     JUJUY AERO                                          
+24082026     9  14.1   73          180    6     JUJUY AERO                                          
+24082026    10  14.7   71          140    6     JUJUY AERO                                          
+24082026    11  15.9   63          990    4     JUJUY AERO                                          
+24082026    12  17.0   59          990    6     JUJUY AERO                                          
+24082026    13  18.8   52          990    6     JUJUY AERO                                          
+24082026    14  19.7   46          990    9     JUJUY AERO                                          
+24082026    15  20.2   43          990   13     JUJUY AERO                                          
+24082026    16  20.7   44           50   13     JUJUY AERO                                          
+24082026    17  19.7   44          990    9     JUJUY AERO                                          
+24082026    18  18.9   46          990    7     JUJUY AERO                                          
+24082026    19  18.3   53          330    7     JUJUY AERO                                          
+24082026    20  17.0   59          360    6     JUJUY AERO                                          
+24082026    21  15.6   62          990    4     JUJUY AERO                                          
+24082026    22  14.4   67          360    4     JUJUY AERO                                          
+24082026    23  11.2   79          320    7     JUJUY AERO                                          
+24082026     6  12.0   77            0    0     JUJUY U N                                           
+24082026     7  12.1   77            0    0     JUJUY U N                                           
+24082026     8  11.9   79          320    4     JUJUY U N                                           
+24082026     9  12.3   77           50    4     JUJUY U N                                           
+24082026    10  12.6   71          140    4     JUJUY U N                                           
+24082026    11  13.1   70          140    4     JUJUY U N                                           
+24082026    12  14.6   65          140    9     JUJUY U N                                           
+24082026    13  15.8   63          140    4     JUJUY U N                                           
+24082026    14  15.8   63           50    4     JUJUY U N                                           
+24082026    15  16.8   64           50    4     JUJUY U N                                           
+24082026    16  16.8   60          140    4     JUJUY U N                                           
+24082026    17  16.2   65          140    4     JUJUY U N                                           
+24082026    18  15.6   68            0    0     JUJUY U N                                           
+24082026    19  15.1   70            0    0     JUJUY U N                                           
+24082026    20  14.4   75           50    4     JUJUY U N                                           
+24082026    21  13.2   75          270    4     JUJUY U N                                           
+24082026    22  11.6   82          270    4     JUJUY U N                                           
+24082026     0   5.7   77  1026.7   90   11     JUNIN AERO                                          
+24082026     1   5.3   82  1027.1   90   11     JUNIN AERO                                          
+24082026     2   4.1   85  1027.2   90    9     JUNIN AERO                                          
+24082026     3   3.5   87  1027.0   20    6     JUNIN AERO                                          
+24082026     4   3.3   86  1026.3   90    7     JUNIN AERO                                          
+24082026     5   3.7   87  1026.0   90    9     JUNIN AERO                                          
+24082026     6   4.8   86  1026.1   70   13     JUNIN AERO                                          
+24082026     7   4.8   88  1026.2   70   11     JUNIN AERO                                          
+24082026     8   5.4   83  1026.8   50   15     JUNIN AERO                                          
+24082026     9   5.8   84  1027.3   50   15     JUNIN AERO                                          
+24082026    10   7.0   76  1027.2   50   20     JUNIN AERO                                          
+24082026    11   8.5   64  1027.2   50   28     JUNIN AERO                                          
+24082026    12   9.5   61  1026.9   50   20     JUNIN AERO                                          
+24082026    13  10.3   61  1025.8   50   24     JUNIN AERO                                          
+24082026    14  10.8   59  1024.9   50   20     JUNIN AERO                                          
+24082026    15  11.5   59  1023.7   50   22     JUNIN AERO                                          
+24082026    16  12.5   57  1023.1   50   22     JUNIN AERO                                          
+24082026    17  13.1   55  1022.7   20   22     JUNIN AERO                                          
+24082026    18  11.8   62  1022.0   50   20     JUNIN AERO                                          
+24082026    19  10.8   66  1021.9   50   15     JUNIN AERO                                          
+24082026    20   8.0   78  1022.1   70   13     JUNIN AERO                                          
+24082026    21   7.7   80  1022.8   90    9     JUNIN AERO                                          
+24082026    22   8.4   76  1022.9   70   15     JUNIN AERO                                          
+24082026    23   8.9   74  1022.7   50   17     JUNIN AERO                                          
+24082026     0   3.2   80  1028.6   90    4     LA PLATA AERO                                       
+24082026     1   2.5   83  1028.4  180    4     LA PLATA AERO                                       
+24082026     2   2.4   86  1028.7  200    2     LA PLATA AERO                                       
+24082026     3   2.2   89  1028.3    0    0     LA PLATA AERO                                       
+24082026     4   2.1   89  1027.5  200    4     LA PLATA AERO                                       
+24082026     5   1.6   87  1027.8    0    0     LA PLATA AERO                                       
+24082026     6    .7   92  1027.9    0    0     LA PLATA AERO                                       
+24082026     7   2.0   82  1028.1  160    4     LA PLATA AERO                                       
+24082026     8   2.5   84  1028.4  180    6     LA PLATA AERO                                       
+24082026     9   5.5   77  1029.1  180    7     LA PLATA AERO                                       
+24082026    10   8.5   65  1029.1  100    9     LA PLATA AERO                                       
+24082026    11   9.9   59  1028.9  120    6     LA PLATA AERO                                       
+24082026    12  10.9   57  1028.4  990    9     LA PLATA AERO                                       
+24082026    13  10.9   56  1027.7   30    7     LA PLATA AERO                                       
+24082026    14  10.8   59  1026.5   50   11     LA PLATA AERO                                       
+24082026    15  10.7   60  1026.1   80    7     LA PLATA AERO                                       
+24082026    16  10.6   64  1025.5   30    7     LA PLATA AERO                                       
+24082026    17   9.7   66  1025.3   70   15     LA PLATA AERO                                       
+24082026    18   9.1   68  1025.2   80    9     LA PLATA AERO                                       
+24082026    19   6.8   80  1024.9   90    6     LA PLATA AERO                                       
+24082026    20   6.1   84  1025.0   80    7     LA PLATA AERO                                       
+24082026    21   4.6   92  1024.8    0    0     LA PLATA AERO                                       
+24082026    22   3.4   88  1025.3  110    4     LA PLATA AERO                                       
+24082026    23   3.5   90  1025.2   90    4     LA PLATA AERO                                       
+24082026     6   4.7   93           50    4     LA QUIACA OBSERVATORIO                              
+24082026     7   4.9   95           50    4     LA QUIACA OBSERVATORIO                              
+24082026     8   3.7   96          230    9     LA QUIACA OBSERVATORIO                              
+24082026     9   3.4   95          230    9     LA QUIACA OBSERVATORIO                              
+24082026    10   5.0   90          230    4     LA QUIACA OBSERVATORIO                              
+24082026    11   7.1   87          320    4     LA QUIACA OBSERVATORIO                              
+24082026    12  10.0   83          320    9     LA QUIACA OBSERVATORIO                              
+24082026    13  12.2   71          320   24     LA QUIACA OBSERVATORIO                              
+24082026    14  13.1   61          320   15     LA QUIACA OBSERVATORIO                              
+24082026    15  14.2   49          320   15     LA QUIACA OBSERVATORIO                              
+24082026    16  14.2   42          320   15     LA QUIACA OBSERVATORIO                              
+24082026    17  14.6   36          320   15     LA QUIACA OBSERVATORIO                              
+24082026    18  14.0   33          320    9     LA QUIACA OBSERVATORIO                              
+24082026    19  12.6   32          320    9     LA QUIACA OBSERVATORIO                              
+24082026    20  10.2   30          320    4     LA QUIACA OBSERVATORIO                              
+24082026    21   8.6   35          320    4     LA QUIACA OBSERVATORIO                              
+24082026     0  14.2   58  1021.8  200   11     LA RIOJA AERO                                       
+24082026     1  13.1   59  1021.6  230    7     LA RIOJA AERO                                       
+24082026     2  12.4   61  1021.4  230   11     LA RIOJA AERO                                       
+24082026     3  11.4   61  1020.8  200   15     LA RIOJA AERO                                       
+24082026     4  11.0   61  1020.2  230    9     LA RIOJA AERO                                       
+24082026     5  11.3   57  1020.1  270    7     LA RIOJA AERO                                       
+24082026     6   7.9   70  1020.4  270    7     LA RIOJA AERO                                       
+24082026     7   7.6   68  1020.9  290    9     LA RIOJA AERO                                       
+24082026     8   5.0   86  1021.5  290   11     LA RIOJA AERO                                       
+24082026     9   7.3   71  1021.6  290    7     LA RIOJA AERO                                       
+24082026    10   9.0   65  1021.3  230    9     LA RIOJA AERO                                       
+24082026    11  14.4   52  1020.4  160    7     LA RIOJA AERO                                       
+24082026    12  15.6   46  1019.9  250    7     LA RIOJA AERO                                       
+24082026    13  18.6   46  1018.2   90    6     LA RIOJA AERO                                       
+24082026    14  19.6   44  1016.4  110   11     LA RIOJA AERO                                       
+24082026    15  21.6   39  1014.9   70   11     LA RIOJA AERO                                       
+24082026    16  22.4   36  1013.9  160    4     LA RIOJA AERO                                       
+24082026    17  21.8   37  1013.3  230    9     LA RIOJA AERO                                       
+24082026    18  21.4   41  1013.2  230    6     LA RIOJA AERO                                       
+24082026    19  20.3   46  1013.0    0    0     LA RIOJA AERO                                       
+24082026    20  18.1   50  1013.4    0    0     LA RIOJA AERO                                       
+24082026    21  14.6   60  1014.0  270    7     LA RIOJA AERO                                       
+24082026    22  14.4   61  1014.2  270    7     LA RIOJA AERO                                       
+24082026    23  14.1   61  1014.1  360    7     LA RIOJA AERO                                       
+24082026     6   9.9   57  1022.6   20    9     LABOULAYE AERO                                      
+24082026     7   9.7   56  1023.9   50   15     LABOULAYE AERO                                      
+24082026     8   9.7   54  1024.7   50   24     LABOULAYE AERO                                      
+24082026     9  10.1   57  1024.7   50   24     LABOULAYE AERO                                      
+24082026    10  11.3   50  1024.9  360   24     LABOULAYE AERO                                      
+24082026    11  12.5   50  1024.6   20   24     LABOULAYE AERO                                      
+24082026    12  14.1   47  1023.8   20   24     LABOULAYE AERO                                      
+24082026    13  17.1   38  1021.9  360   33     LABOULAYE AERO                                      
+24082026    14  18.1   40  1020.7   20   33     LABOULAYE AERO                                      
+24082026    15  18.7   36  1020.7   20   44     LABOULAYE AERO                                      
+24082026    16  18.1   38  1020.5  360   33     LABOULAYE AERO                                      
+24082026    17  17.1   38  1019.2  360   33     LABOULAYE AERO                                      
+24082026    18  16.7   40  1019.2  360   24     LABOULAYE AERO                                      
+24082026    19  14.1   48  1019.3   50   24     LABOULAYE AERO                                      
+24082026    20  12.7   57  1019.0   70   15     LABOULAYE AERO                                      
+24082026    21  12.5   56  1019.3   70   24     LABOULAYE AERO                                      
+24082026     6   3.2   99  1027.1    0    0     LAS FLORES                                          
+24082026     9   4.3   97  1028.6   90    4     LAS FLORES                                          
+24082026    12   8.4   63  1027.9   50    7     LAS FLORES                                          
+24082026    15  10.3   58  1025.1    0    0     LAS FLORES                                          
+24082026    18  10.0   68  1022.9   90    4     LAS FLORES                                          
+24082026    21   8.0   78  1022.8   90    7     LAS FLORES                                          
+24082026     9  12.8   73  1020.9  140    6     LAS LOMITAS                                         
+24082026    12  17.4   58  1021.2   90    9     LAS LOMITAS                                         
+24082026    15  21.0   47  1018.0  140    7     LAS LOMITAS                                         
+24082026    18  21.2   47  1016.9   90    4     LAS LOMITAS                                         
+24082026    21  17.0   63  1017.1   90    9     LAS LOMITAS                                         
+24082026     6   1.7   84            0    0     MALARGUE AERO                                       
+24082026     7    .3   91          200    6     MALARGUE AERO                                       
+24082026     8    .9   88          270    4     MALARGUE AERO                                       
+24082026     9    .8   91            0    0     MALARGUE AERO                                       
+24082026    10   4.2   79            0    0     MALARGUE AERO                                       
+24082026    11   4.6   80          250    6     MALARGUE AERO                                       
+24082026    12   6.6   71           20    6     MALARGUE AERO                                       
+24082026    13   7.2   72           50    6     MALARGUE AERO                                       
+24082026    14   7.2   69          110    6     MALARGUE AERO                                       
+24082026    15   7.6   67          140   11     MALARGUE AERO                                       
+24082026    16   8.8   64          110   11     MALARGUE AERO                                       
+24082026    17  10.4   60          110    9     MALARGUE AERO                                       
+24082026    18   9.3   62          100    7     MALARGUE AERO                                       
+24082026    19   9.0   65          140    7     MALARGUE AERO                                       
+24082026    20   6.4   71          180    9     MALARGUE AERO                                       
+24082026    21   6.0   73          230   11     MALARGUE AERO                                       
+24082026     0   -.8   87           50    9     MAQUINCHAO                                          
+24082026     3   -.3   87           50    9     MAQUINCHAO                                          
+24082026     6  -1.4   95            0    0     MAQUINCHAO                                          
+24082026     7  -1.8   94            0    0     MAQUINCHAO                                          
+24082026     8  -1.2   95            0    0     MAQUINCHAO                                          
+24082026     9  -1.0   95            0    0     MAQUINCHAO                                          
+24082026    10    .2   92           50    4     MAQUINCHAO                                          
+24082026    11   2.6   90           50    4     MAQUINCHAO                                          
+24082026    12   4.6   82            0    0     MAQUINCHAO                                          
+24082026    13   6.0   80            0    0     MAQUINCHAO                                          
+24082026    14   7.6   71           50    4     MAQUINCHAO                                          
+24082026    15   6.8   69           50    4     MAQUINCHAO                                          
+24082026    16   6.6   71          320    4     MAQUINCHAO                                          
+24082026    17   7.1   72          320    4     MAQUINCHAO                                          
+24082026    18   7.8   77          320    4     MAQUINCHAO                                          
+24082026    19   7.6   77            0    0     MAQUINCHAO                                          
+24082026    20   6.2   78            0    0     MAQUINCHAO                                          
+24082026    21   5.3   78            0    0     MAQUINCHAO                                          
+24082026     0   2.1   87  1027.9    0    0     MAR DEL PLATA AERO                                  
+24082026     1   3.4   86  1027.7  250    7     MAR DEL PLATA AERO                                  
+24082026     2   3.1   88  1027.6  250    6     MAR DEL PLATA AERO                                  
+24082026     3    .7   94  1027.5    0    0     MAR DEL PLATA AERO                                  
+24082026     4    .4   92  1027.1  270    7     MAR DEL PLATA AERO                                  
+24082026     5   -.9   94  1027.4    0    0     MAR DEL PLATA AERO                                  
+24082026     6    .4   96  1027.5    0    0     MAR DEL PLATA AERO                                  
+24082026     7   -.2   96  1027.9    0    0     MAR DEL PLATA AERO                                  
+24082026     8    .7   97  1028.1    0    0     MAR DEL PLATA AERO                                  
+24082026     9   5.0   94  1028.3    0    0     MAR DEL PLATA AERO                                  
+24082026    10   6.4   76  1028.1  180    9     MAR DEL PLATA AERO                                  
+24082026    11   7.6   72  1027.9  160    6     MAR DEL PLATA AERO                                  
+24082026    12   7.2   69  1028.0   90    9     MAR DEL PLATA AERO                                  
+24082026    13   7.4   67  1027.9   70    7     MAR DEL PLATA AERO                                  
+24082026    14   7.8   67  1026.5   70    9     MAR DEL PLATA AERO                                  
+24082026    15   7.6   69  1025.9   90    9     MAR DEL PLATA AERO                                  
+24082026    16   8.0   68  1025.1   70   13     MAR DEL PLATA AERO                                  
+24082026    17   7.6   69  1025.1   70   13     MAR DEL PLATA AERO                                  
+24082026    18   7.0   72  1025.0   90   13     MAR DEL PLATA AERO                                  
+24082026    19   5.0   81  1024.6   70    9     MAR DEL PLATA AERO                                  
+24082026    20   3.9   83  1024.7   50   11     MAR DEL PLATA AERO                                  
+24082026    21   4.8   84  1024.6   20    7     MAR DEL PLATA AERO                                  
+24082026    22   4.0   87  1025.0   20    6     MAR DEL PLATA AERO                                  
+24082026    23   4.3   87  1024.8   20    7     MAR DEL PLATA AERO                                  
+24082026     9   9.4   75  1024.9   50   19     MARCOS JUAREZ AERO                                  
+24082026    10  10.3   70  1025.6   50   19     MARCOS JUAREZ AERO                                  
+24082026    11  11.0   69  1025.8   50   19     MARCOS JUAREZ AERO                                  
+24082026    12  12.9   60  1024.8   50   22     MARCOS JUAREZ AERO                                  
+24082026    13  13.3   58  1023.9   50   24     MARCOS JUAREZ AERO                                  
+24082026    14  16.0   48  1022.2  360   24     MARCOS JUAREZ AERO                                  
+24082026    15  16.8   45  1020.9  360   26     MARCOS JUAREZ AERO                                  
+24082026    16  16.5   45  1020.8   50   24     MARCOS JUAREZ AERO                                  
+24082026    17  16.3   47  1019.9   50   26     MARCOS JUAREZ AERO                                  
+24082026    18  15.2   49  1019.6   50   26     MARCOS JUAREZ AERO                                  
+24082026    19  14.8   49  1019.9   50   19     MARCOS JUAREZ AERO                                  
+24082026    20  10.2   72  1019.9   90   19     MARCOS JUAREZ AERO                                  
+24082026    21   9.6   74  1020.1   90   19     MARCOS JUAREZ AERO                                  
+24082026     8   2.4   97  1027.7  180    9     MARIANO MORENO AERO                                 
+24082026     9   5.6   82  1028.1  320    9     MARIANO MORENO AERO                                 
+24082026    10   8.5   67  1028.1  320    9     MARIANO MORENO AERO                                 
+24082026    11   9.8   60  1027.9   90    9     MARIANO MORENO AERO                                 
+24082026    12  11.0   57  1027.5   50   19     MARIANO MORENO AERO                                 
+24082026    13  11.2   44  1026.7  270   15     MARIANO MORENO AERO                                 
+24082026    14  11.6   51  1025.5   90    9     MARIANO MORENO AERO                                 
+24082026    15  11.6   54  1024.8   90    9     MARIANO MORENO AERO                                 
+24082026    16  11.2   53  1023.9   90    9     MARIANO MORENO AERO                                 
+24082026    17  11.2   53  1023.7   90    9     MARIANO MORENO AERO                                 
+24082026    18  11.2   51  1023.6   90    9     MARIANO MORENO AERO                                 
+24082026    19  10.0   63  1023.1   90    9     MARIANO MORENO AERO                                 
+24082026    20   9.4   69  1023.5   90    9     MARIANO MORENO AERO                                 
+24082026    21   9.0   74  1023.5   90    9     MARIANO MORENO AERO                                 
+24082026     0  12.0   59  1021.3  990    4     MENDOZA AERO                                        
+24082026     1  11.8   57  1020.6    0    0     MENDOZA AERO                                        
+24082026     2  11.7   58  1020.2  110    6     MENDOZA AERO                                        
+24082026     3  11.1   62  1019.6    0    0     MENDOZA AERO                                        
+24082026     4   9.7   64  1019.0  990    2     MENDOZA AERO                                        
+24082026     5   8.8   68  1018.6  360    6     MENDOZA AERO                                        
+24082026     6   7.6   74  1018.6  270    4     MENDOZA AERO                                        
+24082026     7   7.1   77  1018.7  990    4     MENDOZA AERO                                        
+24082026     8   7.4   75  1019.5  110    6     MENDOZA AERO                                        
+24082026     9   9.1   70  1020.1  180    6     MENDOZA AERO                                        
+24082026    10  10.1   71  1019.6  140    4     MENDOZA AERO                                        
+24082026    11   9.1   70  1019.7  160    6     MENDOZA AERO                                        
+24082026    12  13.0   60  1018.5  140    9     MENDOZA AERO                                        
+24082026    13  14.4   57  1017.1  110    9     MENDOZA AERO                                        
+24082026    14  15.6   53  1015.9  110    9     MENDOZA AERO                                        
+24082026    15  17.4   47  1014.2   50    6     MENDOZA AERO                                        
+24082026    16  16.8   49  1013.3  360    7     MENDOZA AERO                                        
+24082026    17  17.0   48  1013.1   90    6     MENDOZA AERO                                        
+24082026    18  17.0   47  1013.0  110    9     MENDOZA AERO                                        
+24082026    19  16.2   50  1013.7   50    6     MENDOZA AERO                                        
+24082026    20  14.8   52  1014.1    0    0     MENDOZA AERO                                        
+24082026    21  13.6   65  1014.6  230    4     MENDOZA AERO                                        
+24082026    22  13.2   63  1014.0  230    6     MENDOZA AERO                                        
+24082026    23  11.8   64  1014.2  230    4     MENDOZA AERO                                        
+24082026     0  10.4   72            0    0     MENDOZA OBSERVATORIO                                
+24082026     3  10.2   73            0    0     MENDOZA OBSERVATORIO                                
+24082026     6   5.7   87            0    0     MENDOZA OBSERVATORIO                                
+24082026     7   5.2   84          250    7     MENDOZA OBSERVATORIO                                
+24082026     8   5.0   85          230    4     MENDOZA OBSERVATORIO                                
+24082026     9   7.8   74            0    0     MENDOZA OBSERVATORIO                                
+24082026    10   9.3   77            0    0     MENDOZA OBSERVATORIO                                
+24082026    11  12.2   65          180    6     MENDOZA OBSERVATORIO                                
+24082026    12  13.6   61           90    7     MENDOZA OBSERVATORIO                                
+24082026    13  14.4   58          180    6     MENDOZA OBSERVATORIO                                
+24082026    14  16.2   55           50    6     MENDOZA OBSERVATORIO                                
+24082026    15  16.2   54           50    7     MENDOZA OBSERVATORIO                                
+24082026    16  15.6   58            0    0     MENDOZA OBSERVATORIO                                
+24082026    17  16.6   53            0    0     MENDOZA OBSERVATORIO                                
+24082026    18  16.0   55            0    0     MENDOZA OBSERVATORIO                                
+24082026    19  14.0   69            0    0     MENDOZA OBSERVATORIO                                
+24082026    20  11.8   72          270    6     MENDOZA OBSERVATORIO                                
+24082026    21  11.2   71          250    6     MENDOZA OBSERVATORIO                                
+24082026    22  10.5   72            0    0     MENDOZA OBSERVATORIO                                
+24082026    23   9.9   72          250    7     MENDOZA OBSERVATORIO                                
+24082026     9   9.2   74  1025.4   50   13     MERCEDES AERO (CTES)                                
+24082026    12  14.4   56  1024.4   50   19     MERCEDES AERO (CTES)                                
+24082026    14  15.6   74  1022.3  200   19     MERCEDES AERO (CTES)                                
+24082026    15  17.2   46  1021.7   50   11     MERCEDES AERO (CTES)                                
+24082026    18  16.2   49  1020.6   50    9     MERCEDES AERO (CTES)                                
+24082026    21  11.4   74  1021.1   50    7     MERCEDES AERO (CTES)                                
+24082026     0   5.5   80  1029.1  180    4     MERLO AERO                                          
+24082026     3   6.0   71  1027.4  180    4     MERLO AERO                                          
+24082026     6   5.7   77  1027.4    0    0     MERLO AERO                                          
+24082026     7   4.8   86  1027.9    0    0     MERLO AERO                                          
+24082026     8   4.1   82  1028.3    0    0     MERLO AERO                                          
+24082026     9   5.9   73  1029.4    0    0     MERLO AERO                                          
+24082026    10   9.8   57  1028.9  320    9     MERLO AERO                                          
+24082026    11  11.3   59  1028.8  320    9     MERLO AERO                                          
+24082026    12  11.1   59  1028.2   50    9     MERLO AERO                                          
+24082026    13  12.2   56  1027.4   50    9     MERLO AERO                                          
+24082026    14  12.4   56  1025.9   50    9     MERLO AERO                                          
+24082026    15  11.9   56  1025.3   50    9     MERLO AERO                                          
+24082026    16  12.1   54  1024.4   50    9     MERLO AERO                                          
+24082026    17  11.6   54  1024.3   50    9     MERLO AERO                                          
+24082026    18  11.3   53  1024.4   50    9     MERLO AERO                                          
+24082026    19   9.5   63  1023.9   50    9     MERLO AERO                                          
+24082026    20   9.0   65  1024.2   50    9     MERLO AERO                                          
+24082026    21   8.5   71  1024.2   50    6     MERLO AERO                                          
+24082026     9  11.2   91          140    4     METAN                                               
+24082026    15  18.6   63           50   15     METAN                                               
+24082026    21  13.4   87          270    4     METAN                                               
+24082026     0   8.2   78  1025.4  160    9     MONTE CASEROS AERO                                  
+24082026     1   7.6   80  1024.7  160    7     MONTE CASEROS AERO                                  
+24082026     2   8.0   78  1024.7  160    9     MONTE CASEROS AERO                                  
+24082026     3   7.8   78  1024.8  140    7     MONTE CASEROS AERO                                  
+24082026     4   7.2   83  1024.6  140    9     MONTE CASEROS AERO                                  
+24082026     5   7.0   83  1024.8  140    9     MONTE CASEROS AERO                                  
+24082026     6   7.2   81  1024.6  110    9     MONTE CASEROS AERO                                  
+24082026     7   7.0   83  1025.2  140   11     MONTE CASEROS AERO                                  
+24082026     8   6.8   85  1026.0  140   11     MONTE CASEROS AERO                                  
+24082026     9   8.6   76  1027.0  140    9     MONTE CASEROS AERO                                  
+24082026    10  11.4   65  1027.0  140    9     MONTE CASEROS AERO                                  
+24082026    11  13.2   58  1025.9  140    9     MONTE CASEROS AERO                                  
+24082026    12  14.6   52  1025.3   90   11     MONTE CASEROS AERO                                  
+24082026    13  15.6   48  1023.9   90   15     MONTE CASEROS AERO                                  
+24082026    14  16.6   48  1023.0   90   13     MONTE CASEROS AERO                                  
+24082026    15  17.4   43  1022.3  140   11     MONTE CASEROS AERO                                  
+24082026    16  17.4   38  1021.9  140   15     MONTE CASEROS AERO                                  
+24082026    17  17.4   39  1021.3  140   13     MONTE CASEROS AERO                                  
+24082026    18  16.6   45  1021.0  140   15     MONTE CASEROS AERO                                  
+24082026    19  14.4   64  1021.4  140    7     MONTE CASEROS AERO                                  
+24082026    20  12.4   75  1021.5  140    6     MONTE CASEROS AERO                                  
+24082026    21  11.4   74  1021.7  180    7     MONTE CASEROS AERO                                  
+24082026    22  11.0   74  1021.9  140   13     MONTE CASEROS AERO                                  
+24082026    23  11.0   71  1021.7  140   11     MONTE CASEROS AERO                                  
+24082026     0   7.8   70  1027.3   90    4     MORON AERO                                          
+24082026     1   7.6   72  1027.0   90    6     MORON AERO                                          
+24082026     2   6.8   71  1027.5  110    4     MORON AERO                                          
+24082026     3   6.2   77  1026.8   50    4     MORON AERO                                          
+24082026     4   5.4   78  1026.8   70    4     MORON AERO                                          
+24082026     5   5.8   78  1026.3   90    4     MORON AERO                                          
+24082026     6   6.6   77  1026.0  110    4     MORON AERO                                          
+24082026     7   6.4   76  1026.4  110    2     MORON AERO                                          
+24082026     8   6.2   68  1027.3   90    2     MORON AERO                                          
+24082026     9   7.8   67  1027.7  190    2     MORON AERO                                          
+24082026    10  10.4   58  1027.7  340    9     MORON AERO                                          
+24082026    11  11.0   57  1027.6  360   11     MORON AERO                                          
+24082026    12  11.2   55  1027.0   50    9     MORON AERO                                          
+24082026    13  11.7   53  1026.4  360   17     MORON AERO                                          
+24082026    14  11.6   54  1025.2  360   13     MORON AERO                                          
+24082026    15  11.8   54  1024.7   50    7     MORON AERO                                          
+24082026    16  12.4   51  1023.5   50    9     MORON AERO                                          
+24082026    17  11.8   52  1023.5   50    9     MORON AERO                                          
+24082026    18  11.6   51  1023.3   80    9     MORON AERO                                          
+24082026    19  10.6   54  1022.8   90    9     MORON AERO                                          
+24082026    20   9.6   55  1023.3   90    9     MORON AERO                                          
+24082026    21   9.8   65  1023.0   50    7     MORON AERO                                          
+24082026    22   9.6   69  1023.8   50    7     MORON AERO                                          
+24082026    23   9.4   72  1023.4   50   11     MORON AERO                                          
+24082026     0   8.6   62  1023.8  140    7     NEUQUEN AERO                                        
+24082026     1   8.0   69  1023.1  110    7     NEUQUEN AERO                                        
+24082026     2   6.8   70  1023.1  140    7     NEUQUEN AERO                                        
+24082026     3   6.2   74  1022.8  140    6     NEUQUEN AERO                                        
+24082026     4   5.4   74  1022.0  110    6     NEUQUEN AERO                                        
+24082026     5   5.2   77  1021.0  140    4     NEUQUEN AERO                                        
+24082026     6   5.7   75  1020.8  140    4     NEUQUEN AERO                                        
+24082026     7   6.1   75  1021.1  140    7     NEUQUEN AERO                                        
+24082026     8   6.1   75  1020.4  140    4     NEUQUEN AERO                                        
+24082026     9   6.2   75  1020.6    0    0     NEUQUEN AERO                                        
+24082026    10   7.7   71  1020.4   90    9     NEUQUEN AERO                                        
+24082026    11   9.4   62  1018.9   50   17     NEUQUEN AERO                                        
+24082026    12  10.1   60  1019.0   50   17     NEUQUEN AERO                                        
+24082026    13  10.7   61  1018.4   70   13     NEUQUEN AERO                                        
+24082026    14  11.3   61  1018.6   50   11     NEUQUEN AERO                                        
+24082026    15  11.0   62  1017.6  360    7     NEUQUEN AERO                                        
+24082026    16  10.8   64  1017.3  320    6     NEUQUEN AERO                                        
+24082026    17  11.0   65  1014.8   90   19     NEUQUEN AERO                                        
+24082026    18  11.0   69  1015.4  360    7     NEUQUEN AERO                                        
+24082026    19  10.7   70  1015.2   50    6     NEUQUEN AERO                                        
+24082026    20   9.5   77  1015.7    0    0     NEUQUEN AERO                                        
+24082026    21   8.2   85  1015.8    0    0     NEUQUEN AERO                                        
+24082026    22   6.7   87  1015.6  290    6     NEUQUEN AERO                                        
+24082026    23   7.2   84  1015.1    0    0     NEUQUEN AERO                                        
+24082026     9   6.0   76  1027.1  360    9     NUEVE DE JULIO                                      
+24082026    12  10.0   65  1026.7   50   13     NUEVE DE JULIO                                      
+24082026    15  11.6   67  1023.6   50   11     NUEVE DE JULIO                                      
+24082026    18  11.1   71  1022.4   50    7     NUEVE DE JULIO                                      
+24082026    21   8.8   76  1023.2   50    4     NUEVE DE JULIO                                      
+24082026     9   9.8   90  1022.9   90    4     OBERA                                               
+24082026    15  14.8   91  1019.9  180    4     OBERA                                               
+24082026    21  13.0   96  1019.5  180    4     OBERA                                               
+24082026     9   4.2   89  1027.8   90   13     OLAVARRIA AERO                                      
+24082026    10   5.1   81  1028.0   50   17     OLAVARRIA AERO                                      
+24082026    11   6.7   80  1027.8   50   17     OLAVARRIA AERO                                      
+24082026    12   7.9   74  1027.9   50   19     OLAVARRIA AERO                                      
+24082026    13   8.4   64  1027.1   50   19     OLAVARRIA AERO                                      
+24082026    14   8.8   60  1025.9   50   17     OLAVARRIA AERO                                      
+24082026    15   9.8   63  1024.9   50   17     OLAVARRIA AERO                                      
+24082026     6  17.0   84  1017.8    0    0     ORAN AERO                                           
+24082026     7  16.6   87  1018.4  320    9     ORAN AERO                                           
+24082026     8  16.0   86  1019.2  270    9     ORAN AERO                                           
+24082026     9  16.8   84  1019.7  230    9     ORAN AERO                                           
+24082026    10  18.7   67  1019.7  180   15     ORAN AERO                                           
+24082026    11  20.9   57  1019.7  140    9     ORAN AERO                                           
+24082026    12  22.2   51  1018.4   90    9     ORAN AERO                                           
+24082026    13  24.0   45  1017.0  270    9     ORAN AERO                                           
+24082026    14  25.5   40  1015.1  180    9     ORAN AERO                                           
+24082026    15  25.8   39  1014.1  180    4     ORAN AERO                                           
+24082026    16  24.4   45  1013.9  180    9     ORAN AERO                                           
+24082026    17  23.3   49  1013.9  180   15     ORAN AERO                                           
+24082026    18  22.8   49  1014.6  180    9     ORAN AERO                                           
+24082026    19  22.0   53  1014.9  180    9     ORAN AERO                                           
+24082026    20  20.6   60  1015.1    0    0     ORAN AERO                                           
+24082026    21  20.5   61  1015.6    0    0     ORAN AERO                                           
+24082026     0   8.0   78  1025.5  160    6     PARANA AERO                                         
+24082026     1   7.6   80  1025.6  160    6     PARANA AERO                                         
+24082026     2   6.9   79  1025.7   90    9     PARANA AERO                                         
+24082026     3   6.4   81  1025.3    0    0     PARANA AERO                                         
+24082026     4   6.2   82  1025.0    0    0     PARANA AERO                                         
+24082026     5   6.7   84  1024.9    0    0     PARANA AERO                                         
+24082026     6   7.0   85  1024.9   70   13     PARANA AERO                                         
+24082026     7   7.0   85  1025.3   90   11     PARANA AERO                                         
+24082026     8   7.4   83  1025.6   70   13     PARANA AERO                                         
+24082026     9   7.5   82  1025.5   50   13     PARANA AERO                                         
+24082026    10   8.1   78  1025.9   50   15     PARANA AERO                                         
+24082026    11   9.0   75  1026.3   50   15     PARANA AERO                                         
+24082026    12  10.8   70  1025.6   50   13     PARANA AERO                                         
+24082026    13  13.1   59  1024.4   50   17     PARANA AERO                                         
+24082026    14  14.3   54  1023.3   50   17     PARANA AERO                                         
+24082026    15  14.7   54  1022.3   50   15     PARANA AERO                                         
+24082026    16  15.5   51  1021.6   50   15     PARANA AERO                                         
+24082026    17  15.4   51  1021.0   50   15     PARANA AERO                                         
+24082026    18  14.6   57  1021.0   50    9     PARANA AERO                                         
+24082026    19  13.7   60  1021.3   50    7     PARANA AERO                                         
+24082026    20  12.4   66  1021.6   90    7     PARANA AERO                                         
+24082026    21  11.5   68  1020.7   50   13     PARANA AERO                                         
+24082026    22  10.6   71  1020.4   50   11     PARANA AERO                                         
+24082026    23  10.0   75  1020.9   70   11     PARANA AERO                                         
+24082026     9  -3.7   92  1017.0    0    0     PASO DE INDIOS                                      
+24082026    15   7.5   61           50    9     PASO DE INDIOS                                      
+24082026    21   5.9   85  1009.0    0    0     PASO DE INDIOS                                      
+24082026     6   7.0   84  1024.9  110   15     PASO DE LOS LIBRES AERO                             
+24082026     7   6.7   88  1025.2  110   11     PASO DE LOS LIBRES AERO                             
+24082026     8   7.8   85  1025.7   90   13     PASO DE LOS LIBRES AERO                             
+24082026     9   9.4   77  1026.1   90   17     PASO DE LOS LIBRES AERO                             
+24082026    10  11.4   68  1026.6   90   24     PASO DE LOS LIBRES AERO                             
+24082026    11  13.4   57  1026.0   90   20     PASO DE LOS LIBRES AERO                             
+24082026    12  14.4   58  1025.0   90   20     PASO DE LOS LIBRES AERO                             
+24082026    13  14.6   58  1024.0   90   17     PASO DE LOS LIBRES AERO                             
+24082026    14  16.0   54  1022.5  110   17     PASO DE LOS LIBRES AERO                             
+24082026    15  16.7   52  1021.8  110   15     PASO DE LOS LIBRES AERO                             
+24082026    16  17.1   45  1021.6  110   13     PASO DE LOS LIBRES AERO                             
+24082026    17  16.9   48  1021.2   90   17     PASO DE LOS LIBRES AERO                             
+24082026    18  15.9   54  1020.9  110   15     PASO DE LOS LIBRES AERO                             
+24082026    19  14.1   63  1021.3   90    7     PASO DE LOS LIBRES AERO                             
+24082026    20  11.7   79  1021.8  110    2     PASO DE LOS LIBRES AERO                             
+24082026    21  10.9   81  1021.7  110    6     PASO DE LOS LIBRES AERO                             
+24082026     9   7.8   73  1026.5  360   17     PEHUAJO AERO                                        
+24082026    10   8.6   72  1026.4   50   17     PEHUAJO AERO                                        
+24082026    11   9.4   69  1026.4   50   17     PEHUAJO AERO                                        
+24082026    12  10.2   65  1025.9   50   19     PEHUAJO AERO                                        
+24082026    13  11.0   63  1024.6   50   20     PEHUAJO AERO                                        
+24082026    14  11.3   62  1023.5   50   19     PEHUAJO AERO                                        
+24082026    15  11.6   60  1023.6   50   17     PEHUAJO AERO                                        
+24082026    16  12.0   60  1021.9   50   20     PEHUAJO AERO                                        
+24082026    17  11.7   62  1021.6   50   20     PEHUAJO AERO                                        
+24082026    18  11.0   67  1021.6   50   19     PEHUAJO AERO                                        
+24082026    19  10.3   74  1021.6   50   17     PEHUAJO AERO                                        
+24082026    20  10.1   75  1022.4   50   15     PEHUAJO AERO                                        
+24082026    21   9.7   77  1021.8   50   19     PEHUAJO AERO                                        
+24082026     6  -3.2   91  1015.3    0    0     PERITO MORENO AERO                                  
+24082026     7  -2.0   96  1015.1    0    0     PERITO MORENO AERO                                  
+24082026     8  -1.6   99  1014.9    0    0     PERITO MORENO AERO                                  
+24082026     9  -1.4   96  1014.4   90    9     PERITO MORENO AERO                                  
+24082026    10   -.7   96  1013.9   90    9     PERITO MORENO AERO                                  
+24082026    11   -.4   98  1013.3   90    9     PERITO MORENO AERO                                  
+24082026    12   -.2   98  1012.8   90    9     PERITO MORENO AERO                                  
+24082026    13    .6   90  1011.9    0    0     PERITO MORENO AERO                                  
+24082026    14    .9   92  1011.3    0    0     PERITO MORENO AERO                                  
+24082026    15   1.4   91  1009.4    0    0     PERITO MORENO AERO                                  
+24082026    16   2.6   80  1008.9    0    0     PERITO MORENO AERO                                  
+24082026    17   4.0   86  1008.1    0    0     PERITO MORENO AERO                                  
+24082026    18   4.4   85  1007.6    0    0     PERITO MORENO AERO                                  
+24082026    19   2.9   90  1007.4    0    0     PERITO MORENO AERO                                  
+24082026    20   2.3   88  1007.2    0    0     PERITO MORENO AERO                                  
+24082026    21   2.0   89  1007.0    0    0     PERITO MORENO AERO                                  
+24082026     9   5.1   72  1025.8   90   24     PIGUE AERO                                          
+24082026    15  10.6   60  1021.8   50   33     PIGUE AERO                                          
+24082026    21   7.7   75  1021.3   50   33     PIGUE AERO                                          
+24082026     6   9.0   76  1023.8   50    4     PILAR OBSERVATORIO                                  
+24082026     7   9.4   77  1023.8   50    6     PILAR OBSERVATORIO                                  
+24082026     8   9.6   80  1024.2   50    6     PILAR OBSERVATORIO                                  
+24082026     9  10.0   75  1024.1   50    4     PILAR OBSERVATORIO                                  
+24082026    10  11.0   76  1024.2   50    4     PILAR OBSERVATORIO                                  
+24082026    11  12.2   74  1024.2   50    9     PILAR OBSERVATORIO                                  
+24082026    12  14.0   59  1023.4  360   11     PILAR OBSERVATORIO                                  
+24082026    13  14.6   52  1022.1   50   11     PILAR OBSERVATORIO                                  
+24082026    14  17.0   47  1020.7  360   13     PILAR OBSERVATORIO                                  
+24082026    15  17.6   48  1019.2  360   15     PILAR OBSERVATORIO                                  
+24082026    16  17.2   51  1018.7   50   11     PILAR OBSERVATORIO                                  
+24082026    17  16.8   54  1017.9   50   15     PILAR OBSERVATORIO                                  
+24082026    18  16.2   51  1017.7   50    9     PILAR OBSERVATORIO                                  
+24082026    19  14.0   61  1017.9   50   13     PILAR OBSERVATORIO                                  
+24082026    20  11.8   63  1018.2   50    7     PILAR OBSERVATORIO                                  
+24082026    21  10.4   68  1018.9   50    7     PILAR OBSERVATORIO                                  
+24082026     0  12.5       1022.3  110   13     POSADAS AERO                                        
+24082026     1  11.6   62  1022.2  110    9     POSADAS AERO                                        
+24082026     2  10.8   66  1021.7  110   11     POSADAS AERO                                        
+24082026     3  10.4   67  1021.4  110    9     POSADAS AERO                                        
+24082026     4   9.9   68  1021.1  110   11     POSADAS AERO                                        
+24082026     5   9.4   72  1021.5  110   13     POSADAS AERO                                        
+24082026     6   9.3   73  1021.5  140   11     POSADAS AERO                                        
+24082026     7   9.4   66  1022.5  140   13     POSADAS AERO                                        
+24082026     8   9.8   63  1023.0  140   15     POSADAS AERO                                        
+24082026     9  11.4   59  1023.3  110   11     POSADAS AERO                                        
+24082026    10  13.5   55  1023.0  110   13     POSADAS AERO                                        
+24082026    11  15.8   46  1022.5   90   15     POSADAS AERO                                        
+24082026    12  17.3   47  1021.8   90   13     POSADAS AERO                                        
+24082026    13  19.2   39  1021.0  110   11     POSADAS AERO                                        
+24082026    14  19.4   38  1019.7  140   13     POSADAS AERO                                        
+24082026    15  19.6   38  1019.6  180   11     POSADAS AERO                                        
+24082026    16  19.2   42  1018.6  160   11     POSADAS AERO                                        
+24082026    17  17.7   53  1019.1  160   11     POSADAS AERO                                        
+24082026    18  16.9   56  1018.7  140   11     POSADAS AERO                                        
+24082026    19  16.2   56  1019.2  140   11     POSADAS AERO                                        
+24082026    20  15.2   62  1019.0  140   15     POSADAS AERO                                        
+24082026    21  15.2   62  1019.7  140    9     POSADAS AERO                                        
+24082026    22  14.7   64  1019.4  110    7     POSADAS AERO                                        
+24082026    23  14.1   67  1019.6  140    9     POSADAS AERO                                        
+24082026     0   9.5   86  1022.5  360    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     3   9.5   87  1021.9  360    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     6  10.7   79  1021.3  360    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     7  10.6   78  1021.7  360    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     8  10.5   77  1022.0  360    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     9  11.5   66  1021.4  360    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    10  12.3   66  1022.2  360    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    11  13.0   66  1023.1  110    4     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    12  13.9   64  1022.8   90    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    13  13.8   71  1022.1  110    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    14  16.0   56  1020.4  110    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    15  16.6   55  1019.5  110    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    16  17.1   53  1019.0   90    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    17  16.5   58  1018.6  160    7     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    18  16.2   59  1018.5  140    9     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    19  15.1   63  1018.5  140    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    20  14.3   63  1018.4  140    6     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026    21  13.5   65  1018.7  140    2     PRESIDENCIA ROQUE SAENZ PE                          
+                                            ÑA AERO                                                 
+                                                                                                    
+24082026     9   4.4   90  1017.5  360   24     PUERTO DESEADO AERO                                 
+24082026    15   8.4   81          360   44     PUERTO DESEADO AERO                                 
+24082026    21   5.8   88  1007.4  360   44     PUERTO DESEADO AERO                                 
+24082026     6   3.4   80  1022.2  340   28     PUERTO MADRYN AERO                                  
+24082026     7   3.6   80  1022.0  340   22     PUERTO MADRYN AERO                                  
+24082026     8   3.6   80  1021.9  340   26     PUERTO MADRYN AERO                                  
+24082026     9   4.6   72  1021.6  340   24     PUERTO MADRYN AERO                                  
+24082026    10   6.2   71  1021.3  340   28     PUERTO MADRYN AERO                                  
+24082026    11   9.0   59  1020.9  340   35     PUERTO MADRYN AERO                                  
+24082026    12  10.0   51  1019.4  360   26     PUERTO MADRYN AERO                                  
+24082026    13  11.1   52  1018.7  340   28     PUERTO MADRYN AERO                                  
+24082026    14  11.1   56  1017.7  360   35     PUERTO MADRYN AERO                                  
+24082026    15  11.6   60  1015.6  360   30     PUERTO MADRYN AERO                                  
+24082026    16  12.0   59  1014.9  360   33     PUERTO MADRYN AERO                                  
+24082026    17  11.4   62  1014.2  360   28     PUERTO MADRYN AERO                                  
+24082026    18  10.8   64  1013.9  360   28     PUERTO MADRYN AERO                                  
+24082026    19  10.6   66  1013.2  360   28     PUERTO MADRYN AERO                                  
+24082026    20  10.6   64  1012.5  340   31     PUERTO MADRYN AERO                                  
+24082026    21  10.2   63  1012.2  340   33     PUERTO MADRYN AERO                                  
+24082026    22   9.2   72  1012.2  340   33     PUERTO MADRYN AERO                                  
+24082026    23   8.6   81  1012.7  320   30     PUERTO MADRYN AERO                                  
+24082026     9   7.0   84  1028.3  140   11     PUNTA INDIO B.A.                                    
+24082026    10   9.2   72  1028.6  140   11     PUNTA INDIO B.A.                                    
+24082026    11  10.4   73  1028.6  110    9     PUNTA INDIO B.A.                                    
+24082026    12  11.0   67  1028.4   80    7     PUNTA INDIO B.A.                                    
+24082026    13  10.2   73  1027.6  140   11     PUNTA INDIO B.A.                                    
+24082026    14  10.4   70  1027.0  140   11     PUNTA INDIO B.A.                                    
+24082026    15  11.0   67  1026.1  110   11     PUNTA INDIO B.A.                                    
+24082026    16   9.6   72  1025.9  110   13     PUNTA INDIO B.A.                                    
+24082026    17   9.2   74  1025.5  110   15     PUNTA INDIO B.A.                                    
+24082026    18   8.8   74  1025.3  140   13     PUNTA INDIO B.A.                                    
+24082026    19   6.8   86  1024.9  110    9     PUNTA INDIO B.A.                                    
+24082026    20   5.2   94  1024.8  110    9     PUNTA INDIO B.A.                                    
+24082026    21   4.0   91  1024.8  110    7     PUNTA INDIO B.A.                                    
+24082026     6  10.2   81  1022.9   90   11     RAFAELA AERO                                        
+24082026     9   9.9   80  1024.8   70   19     RAFAELA AERO                                        
+24082026    12  13.5   61  1023.7   90   15     RAFAELA AERO                                        
+24082026    15  15.7   55  1022.3   90   15     RAFAELA AERO                                        
+24082026    18  14.8   63  1020.0   90   15     RAFAELA AERO                                        
+24082026     0  11.2   79  1024.2   80   11     RECONQUISTA AERO                                    
+24082026     1  11.4   78  1024.0   80    7     RECONQUISTA AERO                                    
+24082026     2  11.6   79  1023.8   80    9     RECONQUISTA AERO                                    
+24082026     3  11.6   79  1023.9   90   11     RECONQUISTA AERO                                    
+24082026     4  11.6   79  1023.7  120    6     RECONQUISTA AERO                                    
+24082026     5  11.6   76  1023.8   80    9     RECONQUISTA AERO                                    
+24082026     6  11.4   70  1023.3   90   15     RECONQUISTA AERO                                    
+24082026     7  11.5   70  1023.9   80   11     RECONQUISTA AERO                                    
+24082026     8  11.2   71  1024.3   70    9     RECONQUISTA AERO                                    
+24082026     9  11.5   70  1025.1   60    9     RECONQUISTA AERO                                    
+24082026    10  13.0   60  1024.9   70   17     RECONQUISTA AERO                                    
+24082026    11  14.3   52  1024.6   60   20     RECONQUISTA AERO                                    
+24082026    12  15.7   49  1023.7   70   24     RECONQUISTA AERO                                    
+24082026    13  16.6   44  1023.1   50   20     RECONQUISTA AERO                                    
+24082026    14  17.0   42  1022.5   60   17     RECONQUISTA AERO                                    
+24082026    15  18.2   39  1021.4   70   17     RECONQUISTA AERO                                    
+24082026    16  18.1   42  1020.6   90   15     RECONQUISTA AERO                                    
+24082026    17  18.5   45  1020.2   70   17     RECONQUISTA AERO                                    
+24082026    18  17.7   48  1020.1   80   13     RECONQUISTA AERO                                    
+24082026    19  15.3   63  1020.3   90   11     RECONQUISTA AERO                                    
+24082026    20  12.4   82  1020.1   70    9     RECONQUISTA AERO                                    
+24082026    21  12.6   77  1020.7   70    7     RECONQUISTA AERO                                    
+24082026    22  12.2   74  1021.1   50    7     RECONQUISTA AERO                                    
+24082026    23  11.4   78  1020.4   40   13     RECONQUISTA AERO                                    
+24082026     0  12.6   76  1022.7  130    7     RESISTENCIA AERO                                    
+24082026     1  12.4   77  1022.6  110    6     RESISTENCIA AERO                                    
+24082026     2  11.5   75  1022.5  140    6     RESISTENCIA AERO                                    
+24082026     3  10.9   76  1022.3  140    6     RESISTENCIA AERO                                    
+24082026     4  10.1   78  1022.4  140    9     RESISTENCIA AERO                                    
+24082026     5   9.9   80  1022.3  130    6     RESISTENCIA AERO                                    
+24082026     6  10.1   78  1022.4  130    6     RESISTENCIA AERO                                    
+24082026     7  10.0   77  1022.5  140    6     RESISTENCIA AERO                                    
+24082026     8  10.4   76  1023.0  110    6     RESISTENCIA AERO                                    
+24082026     9  12.3   64  1022.8  110    6     RESISTENCIA AERO                                    
+24082026    10  13.8   59  1023.1  110    7     RESISTENCIA AERO                                    
+24082026    11  14.7   60  1023.0  120    7     RESISTENCIA AERO                                    
+24082026    12  15.2   56  1023.1  110    6     RESISTENCIA AERO                                    
+24082026    13  16.1   53  1022.2  110    6     RESISTENCIA AERO                                    
+24082026    14  18.2   47  1021.3  140    6     RESISTENCIA AERO                                    
+24082026    15  18.1   46  1019.9  120    6     RESISTENCIA AERO                                    
+24082026    16  18.7   45  1019.6  130    9     RESISTENCIA AERO                                    
+24082026    17  18.2   46  1019.2  130   11     RESISTENCIA AERO                                    
+24082026    18  16.9   54  1019.6  110    6     RESISTENCIA AERO                                    
+24082026    19  15.4   59  1019.2  100    4     RESISTENCIA AERO                                    
+24082026    20  14.8   61  1019.2  100    6     RESISTENCIA AERO                                    
+24082026    21  14.3   66  1019.4  110    6     RESISTENCIA AERO                                    
+24082026    22  12.6   75  1019.6  140    9     RESISTENCIA AERO                                    
+24082026    23  12.7   71  1019.7  110    6     RESISTENCIA AERO                                    
+24082026     6   9.2   71  1021.8   20   15     RIO CUARTO AERO                                     
+24082026     7   9.5   69  1022.0   20   24     RIO CUARTO AERO                                     
+24082026     8   9.4   71  1022.5   20   24     RIO CUARTO AERO                                     
+24082026     9  10.2   68  1022.1   20   24     RIO CUARTO AERO                                     
+24082026    10  11.0   67  1022.5   20   24     RIO CUARTO AERO                                     
+24082026    11  12.2   62  1022.3   20   24     RIO CUARTO AERO                                     
+24082026    12  14.0   55  1021.0   20   33     RIO CUARTO AERO                                     
+24082026    13  15.2   52  1019.8   20   24     RIO CUARTO AERO                                     
+24082026    14  17.0   47  1017.9   20   33     RIO CUARTO AERO                                     
+24082026    15  17.7   45  1016.6   20   33     RIO CUARTO AERO                                     
+24082026    16  18.2   41  1016.3   20   33     RIO CUARTO AERO                                     
+24082026    17  18.0   41  1015.8   20   33     RIO CUARTO AERO                                     
+24082026    18  16.6   47  1015.8   20   33     RIO CUARTO AERO                                     
+24082026    19  14.4   56  1015.7   20   33     RIO CUARTO AERO                                     
+24082026    20  12.6   59  1016.6   20   33     RIO CUARTO AERO                                     
+24082026    21  11.8   56  1017.6   20   24     RIO CUARTO AERO                                     
+24082026     0   2.4   89  1016.7   70   11     RIO GALLEGOS AERO                                   
+24082026     1   1.2   97  1016.2   10    6     RIO GALLEGOS AERO                                   
+24082026     2   2.0   93  1015.5  360    9     RIO GALLEGOS AERO                                   
+24082026     3   2.4   93  1014.6   10   15     RIO GALLEGOS AERO                                   
+24082026     4   1.6   93  1014.1   20   11     RIO GALLEGOS AERO                                   
+24082026     5   1.0   89  1013.0   20    6     RIO GALLEGOS AERO                                   
+24082026     6    .8   92  1012.6   50    6     RIO GALLEGOS AERO                                   
+24082026     7   1.4   89  1012.5   10    9     RIO GALLEGOS AERO                                   
+24082026     8   1.8   89  1012.0   70    6     RIO GALLEGOS AERO                                   
+24082026     9   1.5   93  1011.3   10   13     RIO GALLEGOS AERO                                   
+24082026    10   1.9   89  1010.9   20   13     RIO GALLEGOS AERO                                   
+24082026    11   3.1   86  1010.3   30   15     RIO GALLEGOS AERO                                   
+24082026    12   5.0   81  1009.4   20   17     RIO GALLEGOS AERO                                   
+24082026    13   5.8   76  1008.5   50   15     RIO GALLEGOS AERO                                   
+24082026    14   5.2   80  1007.7   30   19     RIO GALLEGOS AERO                                   
+24082026    15   5.3   78  1007.0   20   19     RIO GALLEGOS AERO                                   
+24082026    16   6.0   73  1006.1   20   20     RIO GALLEGOS AERO                                   
+24082026    17   5.5   80  1005.3   30   19     RIO GALLEGOS AERO                                   
+24082026    18   5.8   77  1004.8   30   15     RIO GALLEGOS AERO                                   
+24082026    19   4.7   91  1003.9   70    6     RIO GALLEGOS AERO                                   
+24082026    20   3.8   95  1003.4   40    7     RIO GALLEGOS AERO                                   
+24082026    21   3.1   97  1003.0   20   11     RIO GALLEGOS AERO                                   
+24082026    22   3.9   95  1002.1  360   13     RIO GALLEGOS AERO                                   
+24082026    23   3.0   99  1001.8  280    7     RIO GALLEGOS AERO                                   
+24082026     0   3.6   83  1018.7  340   13     RIO GRANDE B.A.                                     
+24082026     1   3.5   87  1018.2  360   13     RIO GRANDE B.A.                                     
+24082026     2   3.5   90  1017.6  360   17     RIO GRANDE B.A.                                     
+24082026     3   3.5   95  1017.3  350   19     RIO GRANDE B.A.                                     
+24082026     4   3.3   95  1016.6  360   11     RIO GRANDE B.A.                                     
+24082026     5   3.3   99  1015.8  360    7     RIO GRANDE B.A.                                     
+24082026     6   3.2   99  1015.4   30    6     RIO GRANDE B.A.                                     
+24082026     7   3.6   99  1014.8   30    9     RIO GRANDE B.A.                                     
+24082026     8   3.5   95  1014.5   40    9     RIO GRANDE B.A.                                     
+24082026     9   3.6   97  1014.1   10   15     RIO GRANDE B.A.                                     
+24082026    10   4.0   95  1013.2   30   17     RIO GRANDE B.A.                                     
+24082026    11   4.4   97  1012.7   40   15     RIO GRANDE B.A.                                     
+24082026    12   4.6   99  1012.2   20   22     RIO GRANDE B.A.                                     
+24082026    13   4.6   95  1011.6   10   17     RIO GRANDE B.A.                                     
+24082026    14   4.8   95  1011.1   10   17     RIO GRANDE B.A.                                     
+24082026    15   5.2   92  1009.7   40   15     RIO GRANDE B.A.                                     
+24082026    16   4.8   92  1008.9   30   17     RIO GRANDE B.A.                                     
+24082026    17   4.4   95  1008.1   40   13     RIO GRANDE B.A.                                     
+24082026    18   4.0  100  1007.2   60   11     RIO GRANDE B.A.                                     
+24082026    19   3.8  100  1006.8   50   15     RIO GRANDE B.A.                                     
+24082026    20   4.4   95  1006.6   20   20     RIO GRANDE B.A.                                     
+24082026    21   4.2   97  1005.9   20   15     RIO GRANDE B.A.                                     
+24082026    22   4.3   99  1005.4   30   17     RIO GRANDE B.A.                                     
+24082026    23   4.4   99  1004.8   40   22     RIO GRANDE B.A.                                     
+24082026     9  15.2   73  1020.6  180    4     RIVADAVIA                                           
+24082026    12  19.2   55            0    0     RIVADAVIA                                           
+24082026    15  24.8   40           90    4     RIVADAVIA                                           
+24082026    18  26.2   37            0    0     RIVADAVIA                                           
+24082026    21  19.8   58  1015.5    0    0     RIVADAVIA                                           
+24082026     0   9.2   66  1026.1    0    0     ROSARIO AERO                                        
+24082026     1   8.6   74  1025.6   70    6     ROSARIO AERO                                        
+24082026     2   7.8   85  1026.0  140    4     ROSARIO AERO                                        
+24082026     3   8.2   86  1025.6   90    7     ROSARIO AERO                                        
+24082026     4   8.2   84  1025.1   70   11     ROSARIO AERO                                        
+24082026     5   7.8   83  1024.8   70   13     ROSARIO AERO                                        
+24082026     6   8.0   78  1025.0   50   15     ROSARIO AERO                                        
+24082026     7   7.8   72  1025.7   70   13     ROSARIO AERO                                        
+24082026     8   7.8   75  1025.8   50   17     ROSARIO AERO                                        
+24082026     9   8.3   71  1025.9   70   13     ROSARIO AERO                                        
+24082026    10   8.7   68  1026.0   70   17     ROSARIO AERO                                        
+24082026    11   9.4   67  1026.2   50   15     ROSARIO AERO                                        
+24082026    12   9.9   68  1025.7   50   15     ROSARIO AERO                                        
+24082026    13  10.9   65  1025.0   70   13     ROSARIO AERO                                        
+24082026    14  12.9   59  1023.2   70   15     ROSARIO AERO                                        
+24082026    15  14.0   56  1022.8   50   17     ROSARIO AERO                                        
+24082026    16  14.1   58  1021.7   50   19     ROSARIO AERO                                        
+24082026    17  14.3   59  1021.7   50   17     ROSARIO AERO                                        
+24082026    18  13.5   62  1021.4   70   15     ROSARIO AERO                                        
+24082026    19  12.3   66  1021.0   70   11     ROSARIO AERO                                        
+24082026    20  11.5   69  1021.0   70   13     ROSARIO AERO                                        
+24082026    21  10.9   73  1021.5   90   11     ROSARIO AERO                                        
+24082026    22  10.8   73  1021.1   90   15     ROSARIO AERO                                        
+24082026    23  11.2   71  1021.4   70   17     ROSARIO AERO                                        
+24082026     0  14.3   64           20    9     SALTA AERO                                          
+24082026     1  13.9   66          360    7     SALTA AERO                                          
+24082026     2  13.6   69          360    6     SALTA AERO                                          
+24082026     3  13.4   69           20    6     SALTA AERO                                          
+24082026     4  12.8   72          320    4     SALTA AERO                                          
+24082026     5  12.1   72          360    6     SALTA AERO                                          
+24082026     6  11.8   78          180    4     SALTA AERO                                          
+24082026     7  12.0   77            0    0     SALTA AERO                                          
+24082026     8  11.7   80            0    0     SALTA AERO                                          
+24082026     9  12.0   79            0    0     SALTA AERO                                          
+24082026    10  13.0   72           50    4     SALTA AERO                                          
+24082026    11  13.7   67           50    6     SALTA AERO                                          
+24082026    12  14.0   66           50   15     SALTA AERO                                          
+24082026    13  16.1   57           90   13     SALTA AERO                                          
+24082026    14  17.2   51           50    9     SALTA AERO                                          
+24082026    15  17.1   50           90    7     SALTA AERO                                          
+24082026    16  16.9   55           50    7     SALTA AERO                                          
+24082026    17  17.2   51           70    7     SALTA AERO                                          
+24082026    18  16.9   53           50    7     SALTA AERO                                          
+24082026    19  16.0   58           20    6     SALTA AERO                                          
+24082026    20  14.3   59           50    6     SALTA AERO                                          
+24082026    21  12.8   67          360    2     SALTA AERO                                          
+24082026    22  11.3   75          230    4     SALTA AERO                                          
+24082026    23  11.1   76          250    6     SALTA AERO                                          
+24082026     9   5.3   58  1024.3  360   15     SAN ANTONIO OESTE AERO                              
+24082026    15  14.2   46          360   33     SAN ANTONIO OESTE AERO                              
+24082026    21  10.6   68  1016.5  360   15     SAN ANTONIO OESTE AERO                              
+24082026     0   6.4   76  1027.5   80   11     SAN FERNANDO AERO                                   
+24082026     1   7.2   73  1027.6   90   11     SAN FERNANDO AERO                                   
+24082026     2   6.5   77  1027.4   60   11     SAN FERNANDO AERO                                   
+24082026     3   5.4   80  1027.2   40    6     SAN FERNANDO AERO                                   
+24082026     4   6.5   80  1027.0  350    7     SAN FERNANDO AERO                                   
+24082026     5   5.6   80  1026.5  350    4     SAN FERNANDO AERO                                   
+24082026     6   6.3   76  1026.5    0    0     SAN FERNANDO AERO                                   
+24082026     7   4.9   84  1027.1  280    6     SAN FERNANDO AERO                                   
+24082026     8   5.4   83  1027.7  220    6     SAN FERNANDO AERO                                   
+24082026     9   7.8   75  1028.2    0    0     SAN FERNANDO AERO                                   
+24082026    10   9.0   66  1028.3   10   13     SAN FERNANDO AERO                                   
+24082026    11  10.1   62  1028.0   70   15     SAN FERNANDO AERO                                   
+24082026    12  11.1   59  1027.7   80   17     SAN FERNANDO AERO                                   
+24082026    13  10.8   61  1027.2   90   13     SAN FERNANDO AERO                                   
+24082026    14  11.0   59  1025.9   80   17     SAN FERNANDO AERO                                   
+24082026    15  10.8   57  1025.0   90   13     SAN FERNANDO AERO                                   
+24082026    16  10.9   56  1024.3   90   13     SAN FERNANDO AERO                                   
+24082026    17  10.8   63  1024.0  100   13     SAN FERNANDO AERO                                   
+24082026    18  10.1   64  1024.1  100   13     SAN FERNANDO AERO                                   
+24082026    19   9.4   69  1023.4  100    7     SAN FERNANDO AERO                                   
+24082026    20   9.6   71  1023.7  100   17     SAN FERNANDO AERO                                   
+24082026    21   9.4   75  1023.8   90   19     SAN FERNANDO AERO                                   
+24082026    22   9.1   79  1023.7   80   19     SAN FERNANDO AERO                                   
+24082026    23   8.9   77  1023.7   80   19     SAN FERNANDO AERO                                   
+24082026     0   9.5   57  1021.2  200    9     SAN JUAN AERO                                       
+24082026     1  11.0   54  1020.5  180    7     SAN JUAN AERO                                       
+24082026     2   9.3   59  1020.1    0    0     SAN JUAN AERO                                       
+24082026     3   7.5   67  1019.6   50    7     SAN JUAN AERO                                       
+24082026     4   6.3   70  1019.5   90    7     SAN JUAN AERO                                       
+24082026     5   5.6   72  1019.3  140    4     SAN JUAN AERO                                       
+24082026     6   4.3   80  1019.1    0    0     SAN JUAN AERO                                       
+24082026     7   3.8   84  1019.4    0    0     SAN JUAN AERO                                       
+24082026     8   3.0   88  1020.4    0    0     SAN JUAN AERO                                       
+24082026     9   6.3   72  1020.8  200    7     SAN JUAN AERO                                       
+24082026    10  10.0   63  1020.4  180    6     SAN JUAN AERO                                       
+24082026    11  12.4   58  1020.0  200    6     SAN JUAN AERO                                       
+24082026    12  14.6   54  1018.9  200    4     SAN JUAN AERO                                       
+24082026    13  16.4   45  1017.5  180    7     SAN JUAN AERO                                       
+24082026    14  18.4   42  1015.6  140    4     SAN JUAN AERO                                       
+24082026    15  18.6   41  1014.5  170    4     SAN JUAN AERO                                       
+24082026    16  20.0   39  1013.1  210    4     SAN JUAN AERO                                       
+24082026    17  20.0   40  1012.3  150   13     SAN JUAN AERO                                       
+24082026    18  19.4   38  1012.6  150   13     SAN JUAN AERO                                       
+24082026    19  18.6   40  1012.7  180   13     SAN JUAN AERO                                       
+24082026    20  15.8   47  1013.8  190   11     SAN JUAN AERO                                       
+24082026    21  13.9   52  1014.3  200    7     SAN JUAN AERO                                       
+24082026    22  12.9   57  1014.3  200    6     SAN JUAN AERO                                       
+24082026    23  11.8   60  1013.9    0    0     SAN JUAN AERO                                       
+24082026     9   2.6   93  1014.3   50   22     SAN JULIAN AERO                                     
+24082026    15  10.0   63  1009.1   50   41     SAN JULIAN AERO                                     
+24082026    21   6.2   84  1005.0   50   24     SAN JULIAN AERO                                     
+24082026     0  11.4   71  1021.3  350    4     SAN LUIS AERO                                       
+24082026     1  10.9   72  1021.0  340    4     SAN LUIS AERO                                       
+24082026     2  10.4   73  1020.7  360    7     SAN LUIS AERO                                       
+24082026     3   9.1   80  1020.2   20    7     SAN LUIS AERO                                       
+24082026     4   9.2   77  1019.9   20    7     SAN LUIS AERO                                       
+24082026     5   9.5   78  1019.8   20    9     SAN LUIS AERO                                       
+24082026     6   9.6   74  1019.5   20   13     SAN LUIS AERO                                       
+24082026     7   9.3   74  1019.4   20   13     SAN LUIS AERO                                       
+24082026     8   8.3   73  1020.3   50    9     SAN LUIS AERO                                       
+24082026     9  10.3   68  1020.9  360   13     SAN LUIS AERO                                       
+24082026    10  12.9   50  1020.3  320   26     SAN LUIS AERO                                       
+24082026    11  15.5   52  1019.3  320   28     SAN LUIS AERO                                       
+24082026    12  15.5   50  1019.1  340   28     SAN LUIS AERO                                       
+24082026    13  16.9   49  1018.3  320   26     SAN LUIS AERO                                       
+24082026    14  17.6   46  1016.5  320   24     SAN LUIS AERO                                       
+24082026    15  17.8   45  1015.0  320   22     SAN LUIS AERO                                       
+24082026    16  18.4   44  1014.6  320   19     SAN LUIS AERO                                       
+24082026    17  18.3   46  1014.4  340   15     SAN LUIS AERO                                       
+24082026    18  17.3   44  1013.8  320   11     SAN LUIS AERO                                       
+24082026    19  15.7   53  1014.7  320    7     SAN LUIS AERO                                       
+24082026    20  14.6   43  1014.9  320    4     SAN LUIS AERO                                       
+24082026    21  13.7   61  1014.9   90    6     SAN LUIS AERO                                       
+24082026    22  13.4   62  1014.8   50    9     SAN LUIS AERO                                       
+24082026    23  13.6   60  1014.4  360   11     SAN LUIS AERO                                       
+24082026     9   8.5   77  1019.8   70    7     SAN MARTIN (MZA)                                    
+24082026    10  10.1   66  1019.3   70    9     SAN MARTIN (MZA)                                    
+24082026    11  12.3   60  1019.2   70    6     SAN MARTIN (MZA)                                    
+24082026    12  13.7   58  1018.0  160    4     SAN MARTIN (MZA)                                    
+24082026    13  16.0   47  1016.3   70    9     SAN MARTIN (MZA)                                    
+24082026    14  17.0   44  1015.2   70    9     SAN MARTIN (MZA)                                    
+24082026    15  18.8   37  1013.7   70    9     SAN MARTIN (MZA)                                    
+24082026    16  17.5   42  1012.6   20    9     SAN MARTIN (MZA)                                    
+24082026    17  18.0   39  1012.6   20    7     SAN MARTIN (MZA)                                    
+24082026    18  17.9   39  1012.8   20    6     SAN MARTIN (MZA)                                    
+24082026    19  16.5   44  1013.0  290    2     SAN MARTIN (MZA)                                    
+24082026    20  14.5   56  1013.6  290    4     SAN MARTIN (MZA)                                    
+24082026    21  14.5   56  1014.1  200    4     SAN MARTIN (MZA)                                    
+24082026     0   6.1   81  1022.2  250    7     SAN RAFAEL AERO                                     
+24082026     1   5.1   84  1022.0  250    7     SAN RAFAEL AERO                                     
+24082026     2   5.4   81  1021.6  250    7     SAN RAFAEL AERO                                     
+24082026     3   6.5   79  1021.0  250    6     SAN RAFAEL AERO                                     
+24082026     4   6.0   85  1020.4    0    0     SAN RAFAEL AERO                                     
+24082026     5   6.0   82  1019.5    0    0     SAN RAFAEL AERO                                     
+24082026     6   5.0   90  1019.4  270    6     SAN RAFAEL AERO                                     
+24082026     7   5.7   85  1020.0  270    9     SAN RAFAEL AERO                                     
+24082026     8   6.6   81  1020.3  270    9     SAN RAFAEL AERO                                     
+24082026     9   7.0   83  1020.3  360    7     SAN RAFAEL AERO                                     
+24082026    10   8.6   77  1020.6  320    7     SAN RAFAEL AERO                                     
+24082026    11  11.4   61  1020.1  320   13     SAN RAFAEL AERO                                     
+24082026    12  13.6   54  1018.7  320   17     SAN RAFAEL AERO                                     
+24082026    13  14.0   51  1017.6  360   17     SAN RAFAEL AERO                                     
+24082026    14  15.4   51  1016.3  360   28     SAN RAFAEL AERO                                     
+24082026    15  16.0   48  1015.0  360   20     SAN RAFAEL AERO                                     
+24082026    16  16.6   44  1014.5  360   15     SAN RAFAEL AERO                                     
+24082026    17  15.8   50  1014.2  360   19     SAN RAFAEL AERO                                     
+24082026    18  15.0   52  1013.9  360   19     SAN RAFAEL AERO                                     
+24082026    19  13.4   60  1015.0  360    9     SAN RAFAEL AERO                                     
+24082026    20  11.8   68  1014.9  360   11     SAN RAFAEL AERO                                     
+24082026    21  10.1   74  1015.4  270    6     SAN RAFAEL AERO                                     
+24082026    22  10.6   67  1014.7  320    9     SAN RAFAEL AERO                                     
+24082026    23  10.2   70  1014.8  230    7     SAN RAFAEL AERO                                     
+24082026     9   4.1   74           20    9     SANTA CRUZ AERO                                     
+24082026    15   8.9   71           20   19     SANTA CRUZ AERO                                     
+24082026    21   5.3   88  1002.2   20   19     SANTA CRUZ AERO                                     
+24082026     0   8.7   68  1025.4   70   11     SANTA ROSA AERO                                     
+24082026     1   8.3   71  1025.3   70    9     SANTA ROSA AERO                                     
+24082026     2   8.3   69  1025.1   50   17     SANTA ROSA AERO                                     
+24082026     3   8.0   70  1025.2   50   11     SANTA ROSA AERO                                     
+24082026     4   7.6   73  1024.2   50   15     SANTA ROSA AERO                                     
+24082026     5   7.5   75  1023.6   50   15     SANTA ROSA AERO                                     
+24082026     6   7.4   75  1023.6   50   15     SANTA ROSA AERO                                     
+24082026     7   7.2   74  1023.3   50   17     SANTA ROSA AERO                                     
+24082026     8   7.0   74  1023.6   50   17     SANTA ROSA AERO                                     
+24082026     9   7.4   72  1023.6   20   22     SANTA ROSA AERO                                     
+24082026    10   9.6   62  1023.2   20   30     SANTA ROSA AERO                                     
+24082026    11  11.5   50  1022.7   20   35     SANTA ROSA AERO                                     
+24082026    12  13.5   43  1022.0   20   33     SANTA ROSA AERO                                     
+24082026    13  14.7   51  1021.2  360   33     SANTA ROSA AERO                                     
+24082026    14  15.3   48  1019.4  360   31     SANTA ROSA AERO                                     
+24082026    15  15.8   47  1018.3   20   37     SANTA ROSA AERO                                     
+24082026    16  16.0   46  1017.4   20   30     SANTA ROSA AERO                                     
+24082026    17  15.0   51  1017.8   20   28     SANTA ROSA AERO                                     
+24082026    18  14.2   56  1017.8   50   19     SANTA ROSA AERO                                     
+24082026    19  13.4   61  1018.2   50   20     SANTA ROSA AERO                                     
+24082026    20  12.3   62  1018.2   20   30     SANTA ROSA AERO                                     
+24082026    21  11.2   66  1018.4   20   28     SANTA ROSA AERO                                     
+24082026    22  10.8   69  1018.1   20   33     SANTA ROSA AERO                                     
+24082026    23  10.6   68  1017.5   20   33     SANTA ROSA AERO                                     
+24082026     8   9.1   82  1021.5    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026     9   9.9   79  1021.5  320    7     SANTA ROSA DE CONLARA AERO                          
+24082026    10  10.4   75  1022.2    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026    11  11.3   70  1022.4    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026    12  13.8   63  1021.1  320    7     SANTA ROSA DE CONLARA AERO                          
+24082026    13  16.7   54  1019.2  320   19     SANTA ROSA DE CONLARA AERO                          
+24082026    14  17.6   51  1016.8  320   22     SANTA ROSA DE CONLARA AERO                          
+24082026    15  19.6   46  1015.0  270   22     SANTA ROSA DE CONLARA AERO                          
+24082026    16  20.6   42  1013.3  320   15     SANTA ROSA DE CONLARA AERO                          
+24082026    17  20.1   43  1012.3  270   20     SANTA ROSA DE CONLARA AERO                          
+24082026    18  19.6   46  1013.4  270   13     SANTA ROSA DE CONLARA AERO                          
+24082026    19  17.3   50  1013.2    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026    20  13.5   62  1014.5    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026    21  10.7   67  1015.5    0    0     SANTA ROSA DE CONLARA AERO                          
+24082026     0  13.8   67  1022.6  140    7     SANTIAGO DEL ESTERO AERO                            
+24082026     1  13.6   69  1022.5  140    6     SANTIAGO DEL ESTERO AERO                            
+24082026     2  13.4   69  1022.4  140    9     SANTIAGO DEL ESTERO AERO                            
+24082026     3  13.4   69  1022.0  140    6     SANTIAGO DEL ESTERO AERO                            
+24082026     4  12.7   73  1021.8  180    6     SANTIAGO DEL ESTERO AERO                            
+24082026     5  12.4   72  1021.6  180    7     SANTIAGO DEL ESTERO AERO                            
+24082026     6  12.6   71  1021.4  180    7     SANTIAGO DEL ESTERO AERO                            
+24082026     7  12.6   73  1021.5  140    6     SANTIAGO DEL ESTERO AERO                            
+24082026     8  12.4   75  1021.6  130    6     SANTIAGO DEL ESTERO AERO                            
+24082026     9  12.8   73  1022.2  130    6     SANTIAGO DEL ESTERO AERO                            
+24082026    10  13.8   70  1022.7  100    7     SANTIAGO DEL ESTERO AERO                            
+24082026    11  16.0   61  1022.7   80    6     SANTIAGO DEL ESTERO AERO                            
+24082026    12  18.5   53  1021.6   50    9     SANTIAGO DEL ESTERO AERO                            
+24082026    13  20.0   47  1019.5   50   13     SANTIAGO DEL ESTERO AERO                            
+24082026    14  21.3   43  1019.0   20   15     SANTIAGO DEL ESTERO AERO                            
+24082026    15  22.2   41  1017.3   40   17     SANTIAGO DEL ESTERO AERO                            
+24082026    16  22.7   40  1016.1   30   17     SANTIAGO DEL ESTERO AERO                            
+24082026    17  22.8   39  1015.6   20   15     SANTIAGO DEL ESTERO AERO                            
+24082026    18  22.4   41  1015.6  360   13     SANTIAGO DEL ESTERO AERO                            
+24082026    19  21.3   48  1016.0  360    6     SANTIAGO DEL ESTERO AERO                            
+24082026    20  19.6   54  1015.7   40    4     SANTIAGO DEL ESTERO AERO                            
+24082026    21  18.0   66  1015.9   90    6     SANTIAGO DEL ESTERO AERO                            
+24082026    22  18.2   59  1016.0   50    9     SANTIAGO DEL ESTERO AERO                            
+24082026    23  17.8   53  1016.0   50    9     SANTIAGO DEL ESTERO AERO                            
+24082026     0   9.3   81  1025.6  110    7     SAUCE VIEJO AERO                                    
+24082026     1   8.1   89  1025.9  140    4     SAUCE VIEJO AERO                                    
+24082026     2   7.0   93  1025.4  110    7     SAUCE VIEJO AERO                                    
+24082026     3   7.2   88  1025.2  110    7     SAUCE VIEJO AERO                                    
+24082026     4   8.8   84  1025.0  110    7     SAUCE VIEJO AERO                                    
+24082026     5   8.4   82  1024.8  110    9     SAUCE VIEJO AERO                                    
+24082026     6   8.8   81  1024.5  110   15     SAUCE VIEJO AERO                                    
+24082026     7   8.7   79  1025.1  110   13     SAUCE VIEJO AERO                                    
+24082026     8   8.6   85  1025.6  110   15     SAUCE VIEJO AERO                                    
+24082026     9   8.7   84  1025.5   90   13     SAUCE VIEJO AERO                                    
+24082026    10   9.7   82  1026.0   90   13     SAUCE VIEJO AERO                                    
+24082026    11  10.8   77  1025.8   90   17     SAUCE VIEJO AERO                                    
+24082026    12  12.1   67  1025.6   90   17     SAUCE VIEJO AERO                                    
+24082026    13  12.7   64  1024.8   90   19     SAUCE VIEJO AERO                                    
+24082026    14  14.3   58  1023.7   70   19     SAUCE VIEJO AERO                                    
+24082026    15  15.3   55  1022.2   70   15     SAUCE VIEJO AERO                                    
+24082026    16  15.7   54  1021.9   70   17     SAUCE VIEJO AERO                                    
+24082026    17  15.5   56  1021.3   70   15     SAUCE VIEJO AERO                                    
+24082026    18  15.1   59  1021.1   90   13     SAUCE VIEJO AERO                                    
+24082026    19  13.9   66  1021.0   90    9     SAUCE VIEJO AERO                                    
+24082026    20  13.2   68  1020.7  110    9     SAUCE VIEJO AERO                                    
+24082026    21  12.6   74  1020.6  110   13     SAUCE VIEJO AERO                                    
+24082026    22  12.0   73  1020.3  110   15     SAUCE VIEJO AERO                                    
+24082026    23  11.6   73  1020.7   90   13     SAUCE VIEJO AERO                                    
+24082026     0  10.4   78  1024.8  140    4     SUNCHALES AERO                                      
+24082026     1  10.4   78  1024.6  140    4     SUNCHALES AERO                                      
+24082026     2  10.4   78  1024.5  140    4     SUNCHALES AERO                                      
+24082026     3  10.2   75  1023.7  140    4     SUNCHALES AERO                                      
+24082026     4  10.0   77  1023.7   90    9     SUNCHALES AERO                                      
+24082026     5   9.8   82  1023.6   90    9     SUNCHALES AERO                                      
+24082026     6   9.8   82  1023.0  110    9     SUNCHALES AERO                                      
+24082026     7   9.6   82  1024.1   90    9     SUNCHALES AERO                                      
+24082026     8   9.6   82  1024.7   90    9     SUNCHALES AERO                                      
+24082026     9   9.8   82  1024.9   90    9     SUNCHALES AERO                                      
+24082026    10  10.8   76  1024.9   90   15     SUNCHALES AERO                                      
+24082026    11  12.5   66  1024.7   90   15     SUNCHALES AERO                                      
+24082026    12  13.7   60  1024.3   90   15     SUNCHALES AERO                                      
+24082026    13  14.4   58  1023.6   90   15     SUNCHALES AERO                                      
+24082026    14  15.1   56  1022.5   70   15     SUNCHALES AERO                                      
+24082026    15  16.0   52  1021.3   90   15     SUNCHALES AERO                                      
+24082026    16  16.2   55  1020.5   90   15     SUNCHALES AERO                                      
+24082026    17  15.0   64  1020.0   90   15     SUNCHALES AERO                                      
+24082026    18  15.0   62  1020.0   90   15     SUNCHALES AERO                                      
+24082026    19  14.0   67  1019.4   90   15     SUNCHALES AERO                                      
+24082026    20  13.2   71  1019.8   90    9     SUNCHALES AERO                                      
+24082026    21  11.6   80  1019.0   90   15     SUNCHALES AERO                                      
+24082026    22  10.6   85  1019.4   90    9     SUNCHALES AERO                                      
+24082026    23   9.4   89  1019.3   70    9     SUNCHALES AERO                                      
+24082026     8  -3.0   96  1028.5  140    4     TANDIL AERO                                         
+24082026     9   1.4   91  1028.4  120    4     TANDIL AERO                                         
+24082026    10   5.4   76  1028.2   10   11     TANDIL AERO                                         
+24082026    11   6.8   62  1028.1   50   15     TANDIL AERO                                         
+24082026    12   8.0   59  1027.9  360   15     TANDIL AERO                                         
+24082026    13   8.6   58  1026.5   10   15     TANDIL AERO                                         
+24082026    14   8.9   57  1025.7  350   13     TANDIL AERO                                         
+24082026    15   9.0   61  1024.5   20   17     TANDIL AERO                                         
+24082026    16   9.0   59  1024.8  350   13     TANDIL AERO                                         
+24082026    17   8.6   60  1024.0  350   17     TANDIL AERO                                         
+24082026    18   7.8   66  1023.8   10   13     TANDIL AERO                                         
+24082026    19   5.0   78  1023.9   10   11     TANDIL AERO                                         
+24082026    20   4.3   84  1024.4   20    9     TANDIL AERO                                         
+24082026    21   4.3   86  1024.6   50    6     TANDIL AERO                                         
+24082026     9  14.6   81  1019.9  270    4     TARTAGAL AERO                                       
+24082026    12  20.8   50          140    4     TARTAGAL AERO                                       
+24082026    15  24.4   39           50    4     TARTAGAL AERO                                       
+24082026    18  24.4   38          140    4     TARTAGAL AERO                                       
+24082026    21  20.0   56  1015.6  230    9     TARTAGAL AERO                                       
+24082026     9  12.4   72  1022.1    0    0     TERMAS DE RIO HONDO AERO                            
+24082026    10  13.2   65  1022.4   70    9     TERMAS DE RIO HONDO AERO                            
+24082026    11  15.0   61  1022.4  100    6     TERMAS DE RIO HONDO AERO                            
+24082026    12  16.4   57  1021.5   50    9     TERMAS DE RIO HONDO AERO                            
+24082026    13  17.2   56  1020.0  230   15     TERMAS DE RIO HONDO AERO                            
+24082026    14  17.4   57  1019.1  230   15     TERMAS DE RIO HONDO AERO                            
+24082026    15  18.4   54  1017.3  230   19     TERMAS DE RIO HONDO AERO                            
+24082026    16  19.0   53  1016.1  220   15     TERMAS DE RIO HONDO AERO                            
+24082026    17  20.6   46  1015.3  210   11     TERMAS DE RIO HONDO AERO                            
+24082026    18  20.6   48  1015.3  340   15     TERMAS DE RIO HONDO AERO                            
+24082026    19  20.2   53  1015.2  330   11     TERMAS DE RIO HONDO AERO                            
+24082026    20  17.2   71  1016.1  230   17     TERMAS DE RIO HONDO AERO                            
+24082026     9   7.2   80          340   24     TINOGASTA                                           
+24082026    12  15.4   55          270    9     TINOGASTA                                           
+24082026    15  22.2   39          160   15     TINOGASTA                                           
+24082026    18  21.6   38          200   33     TINOGASTA                                           
+24082026    21  15.8   55          200   15     TINOGASTA                                           
+24082026     0    .8   90  1025.8  100   15     TRELEW AERO                                         
+24082026     1  -1.4   92  1024.8   60   11     TRELEW AERO                                         
+24082026     2    .2   84  1024.4   50   13     TRELEW AERO                                         
+24082026     3   4.8   81  1023.6   20   20     TRELEW AERO                                         
+24082026     4   4.2   84  1022.8   60   15     TRELEW AERO                                         
+24082026     5   6.0   71  1021.7  360   31     TRELEW AERO                                         
+24082026     6   5.4   67  1021.5   10   26     TRELEW AERO                                         
+24082026     7   5.0   69  1021.3   20   20     TRELEW AERO                                         
+24082026     8   5.2   67  1021.4   10   24     TRELEW AERO                                         
+24082026     9   5.6   66  1021.1   20   22     TRELEW AERO                                         
+24082026    10   8.6   53  1020.4  360   37     TRELEW AERO                                         
+24082026    11  10.4   48  1019.7  360   37     TRELEW AERO                                         
+24082026    12  12.5   43  1018.4   10   41     TRELEW AERO                                         
+24082026    13  13.0   43  1017.7  360   39     TRELEW AERO                                         
+24082026    14  13.4   42  1016.8   10   35     TRELEW AERO                                         
+24082026    15  14.1   41  1015.4   10   37     TRELEW AERO                                         
+24082026    16  14.4   43  1014.5   10   35     TRELEW AERO                                         
+24082026    17  13.6   46  1013.9   10   39     TRELEW AERO                                         
+24082026    18  12.2   54  1013.2   20   37     TRELEW AERO                                         
+24082026    19  11.8   54  1012.7   10   30     TRELEW AERO                                         
+24082026    20  11.4   58  1012.6   20   26     TRELEW AERO                                         
+24082026    21  11.2   55  1012.0  360   28     TRELEW AERO                                         
+24082026    22  11.0   55  1011.4  350   33     TRELEW AERO                                         
+24082026    23  10.1   69  1012.0  350   33     TRELEW AERO                                         
+24082026     9   7.7   74  1025.3   50   11     TRENQUE LAUQUEN                                     
+24082026    12  10.9   64  1025.0   50   13     TRENQUE LAUQUEN                                     
+24082026    15  13.4   57  1021.8   50   19     TRENQUE LAUQUEN                                     
+24082026    18  12.6   62  1020.3   50   22     TRENQUE LAUQUEN                                     
+24082026    21  10.6   72  1020.6   50   19     TRENQUE LAUQUEN                                     
+24082026     9    .2   90  1027.6  360    7     TRES ARROYOS                                        
+24082026    12  10.2   60  1027.5  360    9     TRES ARROYOS                                        
+24082026    15  12.4   54  1023.9  360   11     TRES ARROYOS                                        
+24082026    18  10.3   64  1022.8  360    9     TRES ARROYOS                                        
+24082026    21   7.8   74  1022.7  360    9     TRES ARROYOS                                        
+24082026     0  12.8   88  1022.3  180    6     TUCUMAN AERO                                        
+24082026     1  12.6   88  1022.3  140    7     TUCUMAN AERO                                        
+24082026     2  12.3   88  1021.3  320    6     TUCUMAN AERO                                        
+24082026     3  12.4   89  1021.6  270    7     TUCUMAN AERO                                        
+24082026     4  12.3   91  1021.8  230    9     TUCUMAN AERO                                        
+24082026     5  11.9   94  1021.5  250    7     TUCUMAN AERO                                        
+24082026     6  11.4   96  1020.9  230    7     TUCUMAN AERO                                        
+24082026     7  11.1   94  1021.3  250    7     TUCUMAN AERO                                        
+24082026     8  10.9   89  1021.6   20    6     TUCUMAN AERO                                        
+24082026     9  11.2   88  1021.8  320    4     TUCUMAN AERO                                        
+24082026    10  11.9   85  1022.0  200    4     TUCUMAN AERO                                        
+24082026    11  13.9   68  1022.0  140    9     TUCUMAN AERO                                        
+24082026    12  15.5   63  1021.3  140    6     TUCUMAN AERO                                        
+24082026    13  16.5   61  1020.1  290    6     TUCUMAN AERO                                        
+24082026    14  18.6   55  1018.4  140    4     TUCUMAN AERO                                        
+24082026    15  19.3   52  1016.9  140   11     TUCUMAN AERO                                        
+24082026    16  19.9   51  1015.5   50    7     TUCUMAN AERO                                        
+24082026    17  20.1   52  1015.4  200    7     TUCUMAN AERO                                        
+24082026    18  18.7   62  1015.4  230   15     TUCUMAN AERO                                        
+24082026    19  16.1   71  1015.9  250   11     TUCUMAN AERO                                        
+24082026    20  14.7   76  1016.5  250    9     TUCUMAN AERO                                        
+24082026    21  14.3   80  1016.9    0    0     TUCUMAN AERO                                        
+24082026    22  14.3   82  1017.1    0    0     TUCUMAN AERO                                        
+24082026    23  14.3   82  1016.7    0    0     TUCUMAN AERO                                        
+24082026     0   2.5   70  1016.0  270   15     USHUAIA AERO                                        
+24082026     1   2.2   70  1015.4  990    4     USHUAIA AERO                                        
+24082026     2   2.2   74  1015.3  320   15     USHUAIA AERO                                        
+24082026     3   2.0   70  1014.6  270   11     USHUAIA AERO                                        
+24082026     4   2.0   75  1014.2  320    7     USHUAIA AERO                                        
+24082026     5   2.3   70  1013.4  110    7     USHUAIA AERO                                        
+24082026     6   2.5   74  1013.2  110    9     USHUAIA AERO                                        
+24082026     7   2.1   72  1012.5  320    9     USHUAIA AERO                                        
+24082026     8   1.5   74  1012.2  270    6     USHUAIA AERO                                        
+24082026     9   1.9   77  1011.9  270   11     USHUAIA AERO                                        
+24082026    10   2.8   76  1011.2  270    7     USHUAIA AERO                                        
+24082026    11   4.5   64  1010.6  270    6     USHUAIA AERO                                        
+24082026    12   5.7   63  1010.0  270    6     USHUAIA AERO                                        
+24082026    13   6.0   62  1009.5  230    7     USHUAIA AERO                                        
+24082026    14   7.0   58  1008.5  230    6     USHUAIA AERO                                        
+24082026    15   8.5   52  1007.5  340   19     USHUAIA AERO                                        
+24082026    16   7.4   57  1006.7  360    4     USHUAIA AERO                                        
+24082026    17   7.0   55  1005.8  180    6     USHUAIA AERO                                        
+24082026    18   5.9   69  1005.0  270    7     USHUAIA AERO                                        
+24082026    19   5.5   67  1004.1  360    6     USHUAIA AERO                                        
+24082026    20   5.4   67  1003.9  320    9     USHUAIA AERO                                        
+24082026    21   5.1   74  1003.4  990    6     USHUAIA AERO                                        
+24082026    22   3.5   75  1002.7  990    7     USHUAIA AERO                                        
+24082026    23   4.7   79  1002.5  200   11     USHUAIA AERO                                        
+24082026     9  -3.5   80            0    0     USPALLATA                                           
+24082026    12  12.8   21          230    4     USPALLATA                                           
+24082026    15  21.7   18          230   15     USPALLATA                                           
+24082026    18  18.7   20          230   15     USPALLATA                                           
+24082026    21  16.7   23          230   15     USPALLATA                                           
+24082026     6   7.6   84  1024.1   60   17     VENADO TUERTO AERO                                  
+24082026     7   7.8   82  1024.5   60   17     VENADO TUERTO AERO                                  
+24082026     8   7.6   82  1025.1   50   19     VENADO TUERTO AERO                                  
+24082026     9   7.8   79  1025.4   50   19     VENADO TUERTO AERO                                  
+24082026    10   8.9   76  1025.0   50   20     VENADO TUERTO AERO                                  
+24082026    11  10.0   68  1025.0   40   20     VENADO TUERTO AERO                                  
+24082026    12  11.0   65  1024.5   30   20     VENADO TUERTO AERO                                  
+24082026    13  12.8   59  1023.5   30   22     VENADO TUERTO AERO                                  
+24082026    14  15.2   48  1022.9   30   19     VENADO TUERTO AERO                                  
+24082026    15  15.8   45  1021.1   20   22     VENADO TUERTO AERO                                  
+24082026    16  16.5   43  1020.5   20   22     VENADO TUERTO AERO                                  
+24082026    17  16.1   44  1020.0   20   22     VENADO TUERTO AERO                                  
+24082026    18  15.1   42  1019.5   50   22     VENADO TUERTO AERO                                  
+24082026    19  12.1   59  1019.9   50   17     VENADO TUERTO AERO                                  
+24082026    20  10.2   71  1020.1   50   19     VENADO TUERTO AERO                                  
+24082026    21   9.2   75  1020.7   50   19     VENADO TUERTO AERO                                  
+24082026     9   7.4   79  1021.9   90    9     VICTORICA                                           
+24082026    15  18.3   44  1016.5  360   24     VICTORICA                                           
+24082026    21  14.6   58  1015.8   50   24     VICTORICA                                           
+24082026     0   2.6   88  1027.5   50    7     VIEDMA AERO                                         
+24082026     1   2.8   86  1027.4   30    7     VIEDMA AERO                                         
+24082026     2    .4   92  1027.3  990    2     VIEDMA AERO                                         
+24082026     3  -1.6   92  1027.0  990    4     VIEDMA AERO                                         
+24082026     4  -2.4   91  1026.2  990    2     VIEDMA AERO                                         
+24082026     5  -1.8   92  1025.8   50    4     VIEDMA AERO                                         
+24082026     6  -3.6   92  1025.9   40    2     VIEDMA AERO                                         
+24082026     7  -2.9   92  1025.8   40    4     VIEDMA AERO                                         
+24082026     8   -.5   98  1025.3  990    4     VIEDMA AERO                                         
+24082026     9   2.1   89  1025.3  990    4     VIEDMA AERO                                         
+24082026    10   5.5   76  1025.3   20   13     VIEDMA AERO                                         
+24082026    11   8.2   64  1024.8   20   17     VIEDMA AERO                                         
+24082026    12  10.1   53  1024.6   20   17     VIEDMA AERO                                         
+24082026    13  11.3   51  1023.0   30   15     VIEDMA AERO                                         
+24082026    14  11.9   53  1022.1   40   15     VIEDMA AERO                                         
+24082026    15  12.3   53  1020.2   30   19     VIEDMA AERO                                         
+24082026    16  12.8   53  1019.6   40   15     VIEDMA AERO                                         
+24082026    17  11.2   63  1019.2   50   15     VIEDMA AERO                                         
+24082026    18  10.1   68  1019.1   40   15     VIEDMA AERO                                         
+24082026    19   9.2   70  1018.5   40   17     VIEDMA AERO                                         
+24082026    20   8.7   72  1018.1   40   17     VIEDMA AERO                                         
+24082026    21   8.8   70  1017.2   40   15     VIEDMA AERO                                         
+24082026    22   8.8   76  1017.5   30   15     VIEDMA AERO                                         
+24082026    23   8.3   88  1017.6   40   11     VIEDMA AERO                                         
+24082026     9  10.0   85  1024.2    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+24082026    15  18.3   49  1019.3   50    9     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+24082026    21   9.7   76  1018.7    0    0     VILLA DE MARIA DEL RIO SEC                          
+                                            O                                                       
+                                                                                                    
+24082026     9  10.6   72  1022.1   90    9     VILLA DOLORES AERO                                  
+24082026    10  12.0   66  1022.5  270    4     VILLA DOLORES AERO                                  
+24082026    11  13.9   58  1022.1  320    4     VILLA DOLORES AERO                                  
+24082026    12  15.4   51  1021.0  320    6     VILLA DOLORES AERO                                  
+24082026    13  18.6   40  1019.2  360    9     VILLA DOLORES AERO                                  
+24082026    14  20.3   36  1017.3  360   31     VILLA DOLORES AERO                                  
+24082026    15  20.9   35  1016.3  360   28     VILLA DOLORES AERO                                  
+24082026    16  21.6   34  1015.4  360   30     VILLA DOLORES AERO                                  
+24082026    17  20.4   37  1014.5  360   28     VILLA DOLORES AERO                                  
+24082026    18  19.8   39  1014.2  360   28     VILLA DOLORES AERO                                  
+24082026    19  18.3   44  1013.7  360   19     VILLA DOLORES AERO                                  
+24082026    20  16.6   52  1014.9  140    6     VILLA DOLORES AERO                                  
+24082026    21  15.5   52  1016.0   50   11     VILLA DOLORES AERO                                  
+24082026     8   2.5   91  1028.4  200    4     VILLA GESELL AERO                                   
+24082026     9   4.8   88  1028.5  180    6     VILLA GESELL AERO                                   
+24082026    10   6.9   79  1028.2  160    9     VILLA GESELL AERO                                   
+24082026    11   7.5   79  1028.1  160    9     VILLA GESELL AERO                                   
+24082026    12   8.0   78  1028.1  110    9     VILLA GESELL AERO                                   
+24082026    13   7.4   87  1028.1  110   11     VILLA GESELL AERO                                   
+24082026    14   7.5   79  1027.0   70   13     VILLA GESELL AERO                                   
+24082026    15   7.9   74  1026.4   90    7     VILLA GESELL AERO                                   
+24082026    16   7.5   79  1025.7   70    7     VILLA GESELL AERO                                   
+24082026    17   7.6   78  1025.4   70    9     VILLA GESELL AERO                                   
+24082026    18   6.5   78  1024.9   50    9     VILLA GESELL AERO                                   
+24082026    19   5.0   85  1025.3   70    6     VILLA GESELL AERO                                   
+24082026    20   5.5   85  1025.2   20    7     VILLA GESELL AERO                                   
+24082026    21   4.6   90  1025.1   50    4     VILLA GESELL AERO                                   
+24082026     0  12.9   61  1022.0  360   11     VILLA REYNOLDS AERO                                 
+24082026     1  10.7   68  1021.6  340    4     VILLA REYNOLDS AERO                                 
+24082026     2   8.0   74  1022.0  360    4     VILLA REYNOLDS AERO                                 
+24082026     3   6.3   81  1021.4    0    0     VILLA REYNOLDS AERO                                 
+24082026     4   6.9   85  1021.2  180    4     VILLA REYNOLDS AERO                                 
+24082026     5   6.4   84  1021.0  200    4     VILLA REYNOLDS AERO                                 
+24082026     6   6.3   85  1021.2  180    2     VILLA REYNOLDS AERO                                 
+24082026     7   5.0   85  1021.9  250    4     VILLA REYNOLDS AERO                                 
+24082026     8   5.9   87  1021.8    0    0     VILLA REYNOLDS AERO                                 
+24082026     9   7.2   83  1022.3  200    4     VILLA REYNOLDS AERO                                 
+24082026    10  10.7   76  1021.9   90    6     VILLA REYNOLDS AERO                                 
+24082026    11  15.8   58  1020.6   50    7     VILLA REYNOLDS AERO                                 
+24082026    12  18.3   45  1019.5  360   22     VILLA REYNOLDS AERO                                 
+24082026    13  19.6   44  1018.4  360   28     VILLA REYNOLDS AERO                                 
+24082026    14  20.4   40  1017.6  360   28     VILLA REYNOLDS AERO                                 
+24082026    15  20.3   39  1016.6  360   26     VILLA REYNOLDS AERO                                 
+24082026    16  20.1   38  1015.4  360   19     VILLA REYNOLDS AERO                                 
+24082026    17  20.9   38  1015.0  360   19     VILLA REYNOLDS AERO                                 
+24082026    18  19.6   44  1015.3   50   13     VILLA REYNOLDS AERO                                 
+24082026    19  16.8   51  1015.6   50   13     VILLA REYNOLDS AERO                                 
+24082026    20  15.5   56  1015.8   50   13     VILLA REYNOLDS AERO                                 
+24082026    21  14.0   57  1015.8   50   22     VILLA REYNOLDS AERO                                 
+24082026    22  13.8   56  1015.5   50   19     VILLA REYNOLDS AERO                                 
+24082026    23  12.9   60  1016.0  360   11     VILLA REYNOLDS AERO                                 
