@@ -56,3 +56,24 @@ Al terminar, el programa muestra por consola la cantidad de registros leidos, va
 
 - **`validaciones.py`**: tiene una función por cada dato a validar (fecha, hora, temperatura, humedad, presion, 
   direccion de viento, velocidad de viento y estación) y una funcion `validar_registro()` que las junta a todas.
+
+## Implementacion 2 fase 1
+
+ El modulo procesar_datos.py recibe tres argumentos:
+ 1_ Ruta al JSON
+ 2_ Estacion metereologica
+ 3_ Mediciones a analizar.
+
+ ```bash
+python procesar_datos.py datos/observaciones.json "AEROPARQUE AERO" temperatura
+```
+
+El modulo muestra por consola:
+
+1_ cantidad de registros:
+2_ valor minimo
+3_ valor maximo
+4_ promedio
+5_ primeros registros filtrados
+
+y genera un archivo CSV con los datos filtrados y una imagen PNG de la grafica.
