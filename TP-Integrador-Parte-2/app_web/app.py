@@ -17,18 +17,20 @@ from procesar_datos import generar_csv
 
 
 def main():
+    # st.set_page_config(
+    #     page_title="Datos meteorológicos",
+    #     page_icon="🌦️",
+    #     layout="wide"
+    # )
+
+    # st.title("🌦️ Explorador de datos meteorológicos")
+    # st.write(
+    #     "Elegí una estación y una medición "
+    #     "para consultar sus datos."
+    # )
     st.set_page_config(
-        page_title="Datos meteorológicos",
-        page_icon="🌦️",
         layout="wide"
     )
-
-    st.title("🌦️ Explorador de datos meteorológicos")
-    st.write(
-        "Elegí una estación y una medición "
-        "para consultar sus datos."
-    )
-
     # Recibir la ruta del JSON.
     if len(sys.argv) < 2:
         st.error("No se indicó la ruta del archivo JSON.")

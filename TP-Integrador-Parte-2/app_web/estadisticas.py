@@ -1,6 +1,4 @@
 
-
-
 def calcular_estadisticas(registros,medicion):
 
     valores = []
